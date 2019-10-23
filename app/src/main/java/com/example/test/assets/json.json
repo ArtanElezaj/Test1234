@@ -1,0 +1,59 @@
+{
+  "allApps": [
+    {
+      "image": "https://dummyimage.com/squarepopup",
+      "name": "Think And Grow Rich",
+      "packageName": "com.devhippo.main"
+    },
+    {
+      "image": "https://dummyimage.com/squarepopup",
+      "name": "The Four Agreements",
+      "packageName": "com.DevHippo.TheFourAgreements"
+    },
+    {
+      "image": "https://dummyimage.com/squarepopup",
+      "name": "Grow Rich While You Sleep",
+      "packageName": "com.devhippo.GrowRichWhileYouSleep"
+    },
+    {
+      "image": "https://dummyimage.com/squarepopup",
+      "name": "Holy Bible",
+      "packageName": "com.devhippo.HolyBible"
+    },
+    {
+      "image": "https://dummyimage.com/squarepopup",
+      "name": "How To Get What You Want",
+      "packageName": "com.devhippo.HowToGetWhatYouWant"
+    },
+    {
+      "image": "https://dummyimage.com/squarepopup",
+      "name": "The Magic Of Thinking Big",
+      "packageName": "com.devhippo.TheMagicOfThinkingBig"
+    },
+    {
+      "image": "https://dummyimage.com/squarepopup",
+      "name": "How To Turn Your Ability Into Cash",
+      "packageName": "com.devhippo.HowToTurnYourAbilityIntoCash"
+    },
+    {
+      "image": "https://dummyimage.com/squarepopup",
+      "name": "The Power Of Your Subconscious Mind",
+      "packageName": "com.devhippo.ThePowerOfYourSubconsciousMind"
+    },
+    {
+      "image": "https://dummyimage.com/squarepopup",
+      "name": "The One Thing",
+      "packageName": "com.devhippo.TheOneThing"
+    },
+    {
+      "image": "https://dummyimage.com/squarepopup",
+      "name": "The Law Of Success In Sixteen Lessons",
+      "packageName": "com.devhippo.TheLawOfSuccessInSixteenLessons"
+    },
+    {
+      "image": "https://dummyimage.com/squarepopup",
+      "name": "The 7 Habits Of Highly Effective People",
+      "packageName": "com.devhippo.The7HabitsOfHighlyEffectivePeople"
+    }
+  ]
+}
