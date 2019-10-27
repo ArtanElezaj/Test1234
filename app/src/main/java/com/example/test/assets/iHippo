@@ -1,0 +1,120 @@
+{
+  "allCategories": [
+    {
+      "categoryTitle": "Romance",
+      "categoryItems": [
+        {
+          "title": "",
+          "image": "https://user-images.githubusercontent.com/20631330/67351954-afde9480-f51c-11e9-985d-109e10f86cb0.png",
+          "rating": "",
+          "description": "",
+          "trailerUrl": "",
+          "fullUrl": ""
+        },
+        {
+          "title": "",
+          "image": "https://user-images.githubusercontent.com/20631330/67351954-afde9480-f51c-11e9-985d-109e10f86cb0.png",
+          "rating": "",
+          "description": "",
+          "trailerUrl": "",
+          "fullUrl": ""
+        },
+        {
+          "title": "",
+          "image": "https://user-images.githubusercontent.com/20631330/67351954-afde9480-f51c-11e9-985d-109e10f86cb0.png",
+          "rating": "",
+          "description": "",
+          "trailerUrl": "",
+          "fullUrl": ""
+        }
+      ]
+    },
+    {
+      "categoryTitle": "Action",
+      "categoryItems": [
+        {
+          "title": "",
+          "image": "https://user-images.githubusercontent.com/20631330/67351954-afde9480-f51c-11e9-985d-109e10f86cb0.png",
+          "rating": "",
+          "description": "",
+          "trailerUrl": "",
+          "fullUrl": ""
+        },
+        {
+          "title": "",
+          "image": "https://user-images.githubusercontent.com/20631330/67351954-afde9480-f51c-11e9-985d-109e10f86cb0.png",
+          "rating": "",
+          "description": "",
+          "trailerUrl": "",
+          "fullUrl": ""
+        },
+        {
+          "title": "",
+          "image": "https://user-images.githubusercontent.com/20631330/67351954-afde9480-f51c-11e9-985d-109e10f86cb0.png",
+          "rating": "",
+          "description": "",
+          "trailerUrl": "",
+          "fullUrl": ""
+        }
+      ]
+    },
+    {
+      "categoryTitle": "Thriller",
+      "categoryItems": [
+        {
+          "title": "",
+          "image": "https://user-images.githubusercontent.com/20631330/67351954-afde9480-f51c-11e9-985d-109e10f86cb0.png",
+          "rating": "",
+          "description": "",
+          "trailerUrl": "",
+          "fullUrl": ""
+        },
+        {
+          "title": "",
+          "image": "https://user-images.githubusercontent.com/20631330/67351954-afde9480-f51c-11e9-985d-109e10f86cb0.png",
+          "rating": "",
+          "description": "",
+          "trailerUrl": "",
+          "fullUrl": ""
+        },
+        {
+          "title": "",
+          "image": "https://user-images.githubusercontent.com/20631330/67351954-afde9480-f51c-11e9-985d-109e10f86cb0.png",
+          "rating": "",
+          "description": "",
+          "trailerUrl": "",
+          "fullUrl": ""
+        }
+      ]
+    },
+    {
+      "categoryTitle": "Comedies",
+      "categoryItems": [
+        {
+          "title": "",
+          "image": "https://user-images.githubusercontent.com/20631330/67351954-afde9480-f51c-11e9-985d-109e10f86cb0.png",
+          "rating": "",
+          "description": "",
+          "trailerUrl": "",
+          "fullUrl": ""
+        },
+        {
+          "title": "",
+          "image": "https://user-images.githubusercontent.com/20631330/67351954-afde9480-f51c-11e9-985d-109e10f86cb0.png",
+          "rating": "",
+          "description": "",
+          "trailerUrl": "",
+          "fullUrl": ""
+        },
+        {
+          "title": "",
+          "image": "https://user-images.githubusercontent.com/20631330/67351954-afde9480-f51c-11e9-985d-109e10f86cb0.png",
+          "rating": "",
+          "description": "",
+          "trailerUrl": "",
+          "fullUrl": ""
+        }
+      ]
+    }
+  ]
+}
