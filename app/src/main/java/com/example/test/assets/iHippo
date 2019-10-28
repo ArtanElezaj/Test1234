@@ -4,20 +4,20 @@
       "categoryTitle": "Romance",
       "categoryItems": [
         {
-          "title": "",
+          "title": "Title1",
           "image": "https://user-images.githubusercontent.com/20631330/67351952-afde9480-f51c-11e9-9779-498898b254b6.png",
-          "rating": "",
-          "description": "",
-          "trailerUrl": "",
-          "fullUrl": ""
+          "rating": "7.2",
+          "description": "Description1",
+          "trailerUrl": "https://www.youtube.com/watch?v=ztD3mRMdqSw",
+          "fullUrl": "https://www.youtube.com/watch?v=3__BJbCVdHA"
         },
         {
-          "title": "",
+          "title": "Title2",
           "image": "https://user-images.githubusercontent.com/20631330/67351949-afde9480-f51c-11e9-9442-0174164f5c9a.png",
-          "rating": "",
-          "description": "",
-          "trailerUrl": "",
-          "fullUrl": ""
+          "rating": "6.7",
+          "description": "Description2",
+          "trailerUrl": "https://www.youtube.com/watch?v=ar-IaAx7s8k",
+          "fullUrl": "https://www.youtube.com/watch?v=S7r6aqxvhU4"
         },
         {
           "title": "",
