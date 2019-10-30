@@ -9,7 +9,7 @@
           "rating": "5.9",
           "description": "A typical afternoon in the park turns into a nightmare for single mother Karla Dyson when kidnappers snatch her young son Frankie. With no cellphone and no time to wait for police, Dyson jumps into her car to follow the vehicle that holds Frankie. As the pursuit turns into a frantic, high-speed chase, Karla must risk everything and push herself to the limit to save her beloved child.",
           "trailerUrl": "VZOw49nBiSU",
-          "fullUrl": "3__BJbCVdHA"
+          "fullUrl": "yKap79Y1jWM"
         },
         {
           "title": "Wild Child",
@@ -24,56 +24,16 @@
           "image": "https://user-images.githubusercontent.com/20631330/67827289-f0eb2180-faa5-11e9-8b61-94a520023d24.jpg",
           "rating": "6.4",
           "description": "Amiable slacker David Wozniak (Vince Vaughn) drives a delivery truck for his family's company and is content with a life of mediocrity. However, when he learns that he is the biological father of more than 500 offspring and many of them are suing to learn his identity, he decides to hold himself accountable for his actions. He finds some of his progeny and becomes involved in their lives; however, when David's girlfriend announces her pregnancy, she keeps her expectations low.",
-          "trailerUrl": "MaM0RzdeQmk",
-          "fullUrl": "yKap79Y1jWM"
+          "trailerUrl": "yGAktL45XNQ",
+          "fullUrl": "gF1x9oupG14"
         },
         {
-          "title": "",
-          "image": "https://user-images.githubusercontent.com/20631330/67351952-afde9480-f51c-11e9-9779-498898b254b6.png",
-          "rating": "",
-          "description": "",
-          "trailerUrl": "",
-          "fullUrl": "KxuWYyUYYjQ"
-        },
-        {
-          "title": "",
-          "image": "https://user-images.githubusercontent.com/20631330/67351949-afde9480-f51c-11e9-9442-0174164f5c9a.png",
-          "rating": "",
-          "description": "",
-          "trailerUrl": "",
-          "fullUrl": "jUM0roR1oSE"
-        },
-        {
-          "title": "",
-          "image": "https://user-images.githubusercontent.com/20631330/67351952-afde9480-f51c-11e9-9779-498898b254b6.png",
-          "rating": "",
-          "description": "",
-          "trailerUrl": "",
-          "fullUrl": "oe6FJPzi-bQ"
-        },
-        {
-          "title": "",
-          "image": "https://user-images.githubusercontent.com/20631330/67351952-afde9480-f51c-11e9-9779-498898b254b6.png",
-          "rating": "",
-          "description": "",
-          "trailerUrl": "",
-          "fullUrl": "-LsXxAJE_Vw"
-        },
-        {
-          "title": "",
-          "image": "https://user-images.githubusercontent.com/20631330/67351949-afde9480-f51c-11e9-9442-0174164f5c9a.png",
-          "rating": "",
-          "description": "",
-          "trailerUrl": "",
-          "fullUrl": "aX6WTAYSz-s"
-        },
-        {
-          "title": "",
-          "image": "https://user-images.githubusercontent.com/20631330/67351952-afde9480-f51c-11e9-9779-498898b254b6.png",
-          "rating": "",
-          "description": "",
-          "trailerUrl": "",
-          "fullUrl": "ybX35LZI4FM"
+          "title": "Singularity Principle",
+          "image": "https://user-images.githubusercontent.com/20631330/67827751-512e9300-faa7-11e9-9e62-1e23bfdf1444.jpg",
+          "rating": "5.1",
+          "description": "A clandestine Black-Ops Agent is desperate to learn how to use parallel universes to manipulate and control other universes.",
+          "trailerUrl": "BvQ8_lttsPo",
+          "fullUrl": "aKB3YOecfa4"
         }
       ]
     },
@@ -81,20 +41,28 @@
       "categoryTitle": "Action",
       "categoryItems": [
         {
-          "title": "",
-          "image": "https://user-images.githubusercontent.com/20631330/67351952-afde9480-f51c-11e9-9779-498898b254b6.png",
-          "rating": "",
-          "description": "",
-          "trailerUrl": "",
-          "fullUrl": "HGezagpjZiA"
+          "title": "Django Unchained",
+          "image": "https://user-images.githubusercontent.com/20631330/67828409-aff50c00-faa9-11e9-867b-657ff5317190.jpg",
+          "rating": "8.4",
+          "description": "Two years before the Civil War, Django (Jamie Foxx), a slave, finds himself accompanying an unorthodox German bounty hunter named Dr. King Schultz (Christoph Waltz) on a mission to capture the vicious Brittle brothers. Their mission successful, Schultz frees Django, and together they hunt the South's most-wanted criminals. Their travels take them to the infamous plantation of shady Calvin Candie (Leonardo DiCaprio), where Django's long-lost wife (Kerry Washington) is still a slave.",
+          "trailerUrl": "K0CXGNJblN0",
+          "fullUrl": "3__BJbCVdHA"
         },
         {
-          "title": "",
+          "title": "The Elizabeth Smart Story",
           "image": "https://user-images.githubusercontent.com/20631330/67351949-afde9480-f51c-11e9-9442-0174164f5c9a.png",
-          "rating": "",
-          "description": "",
-          "trailerUrl": "",
-          "fullUrl": "aKB3YOecfa4"
+          "rating": "5.9",
+          "description": "Based on the true story of the kidnapping of teenager Elizabeth Smart in Salt Lake City, Utah in 2002. Her parents Ed and Lois have to deal with the suspicions of the police that they have been involved in their daughter's disappearance as well as keeping her case in the public eye.",
+          "trailerUrl": "6FrLgvsv7Cw",
+          "fullUrl": "ybX35LZI4FM"
+        },
+        {
+          "title": "Ronal the Barbarian",
+          "image": "https://user-images.githubusercontent.com/20631330/67828326-63113580-faa9-11e9-8374-7e9adb185803.jpg",
+          "rating": "6.6",
+          "description": "A group of brawny barbarian warriors are kidnapped by evil Volcazar. Only the weak, cowardly yet intelligent Ronal can save them all, but he needs the help of the fearless shield-maiden Zandra as he takes on Volcazar and his army.",
+          "trailerUrl": "mLbT_eDWGBQ",
+          "fullUrl": "aX6WTAYSz-s"
         },
         {
           "title": "",
@@ -157,6 +125,38 @@
     {
       "categoryTitle": "Thriller",
       "categoryItems": [
+        {
+          "title": "Street Dreams",
+          "image": "https://user-images.githubusercontent.com/20631330/67827871-a79bd180-faa7-11e9-8501-94fbc734d3e1.jpg",
+          "rating": "6.3",
+          "description": "An up and coming skater runs off to compete in a competition where he could become the next star.",
+          "trailerUrl": "usW_v8sbFuU",
+          "fullUrl": "HGezagpjZiA"
+        },
+        {
+          "title": "Lolita",
+          "image": "https://user-images.githubusercontent.com/20631330/67827735-4247e080-faa7-11e9-8297-63d1196d7c1f.jpg",
+          "rating": "6.9",
+          "description": "Adrian Lyne's adaptation of Nabokov's controversial novel, the classic tale of a man's inappropriate obsession with a beautiful young girl.",
+          "trailerUrl": "O0hwPza1Ngc",
+          "fullUrl": "oe6FJPzi-bQ"
+        },
+        {
+          "title": "Force 2",
+          "image": "https://user-images.githubusercontent.com/20631330/67828268-28a79880-faa9-11e9-902a-1cbff55d798e.jpg",
+          "rating": "6.2",
+          "description": "An ex-cop investigates the death of his best friend and two other spies, killings that lead to a mole operating from India's embassy in Budapest.",
+          "trailerUrl": "r4O4Xec60_k",
+          "fullUrl": "cx4Xwae513g"
+        },
+        {
+          "title": "The End Of War",
+          "image": "https://user-images.githubusercontent.com/20631330/67828249-13cb0500-faa9-11e9-9e0b-53bc2ae09311.jpg",
+          "rating": "9.1",
+          "description": "Set during WWI, 'The End of War' focuses on three Allied soldiers approaching the last minutes of combat before the armistice takes effect.",
+          "trailerUrl": "KO-vsyjMJ5c",
+          "fullUrl": "-LsXxAJE_Vw"
+        },
         {
           "title": "",
           "image": "https://user-images.githubusercontent.com/20631330/67351952-afde9480-f51c-11e9-9779-498898b254b6.png",
