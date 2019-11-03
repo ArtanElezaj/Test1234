@@ -1,6 +1,11 @@
 {
   "allApps": [
     {
+      "image": "https://user-images.githubusercontent.com/20631330/67351957-afde9480-f51c-11e9-9040-56793820fae6.jpg",
+      "name": "Think And Grow Rich",
+      "packageName": "com.devhippo.main"
+    },
+    {
       "image": "https://user-images.githubusercontent.com/20631330/67351952-afde9480-f51c-11e9-9779-498898b254b6.png",
       "name": "The Four Agreements",
       "packageName": "com.DevHippo.TheFourAgreements"
