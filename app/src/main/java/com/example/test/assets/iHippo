@@ -418,35 +418,6 @@
       ]
     },
     {
-      "categoryTitle": "Science-Fiction",
-      "categoryItems": [
-        {
-          "title": "Flora",
-          "image": "https://user-images.githubusercontent.com/20631330/68080346-05922700-fdd0-11e9-8f5c-c55687a999d3.jpg",
-          "rating": "4.5",
-          "description": "In 1929 botanists discover an ancient organism in an uncharted forest.",
-          "trailerUrl": "A9YRqG3ZRI8",
-          "fullUrl": "aozrTaNwQTQ"
-        },
-        {
-          "title": "Singularity Principle",
-          "image": "https://user-images.githubusercontent.com/20631330/67827751-512e9300-faa7-11e9-9e62-1e23bfdf1444.jpg",
-          "rating": "5.1",
-          "description": "A clandestine Black-Ops Agent is desperate to learn how to use parallel universes to manipulate and control other universes.",
-          "trailerUrl": "BvQ8_lttsPo",
-          "fullUrl": "aKB3YOecfa4"
-        },
-        {
-          "title": "Fugitive Alien",
-          "image": "https://user-images.githubusercontent.com/20631330/68079595-674b9480-fdc2-11e9-97e9-abb68804bbe3.jpg",
-          "rating": "2.3",
-          "description": "After an alien attack leaves Japan devastated, an earthbound spacecraft crew rescues an abandoned enemy crew member.",
-          "trailerUrl": "",
-          "fullUrl": "Z71MyPmmGZI"
-        }
-      ]
-    },
-    {
       "categoryTitle": "Fantasy",
       "categoryItems": [
         {
@@ -501,6 +472,35 @@
           "description": "Captain Paul Gerard (George Raft) is a soldier known as much for his long list of romantic conquests as for his courage. So trouble brews when he is assigned to guard Cara (Marie Windsor), the French-educated daughter of the emir (Eduard Franz), on her passage home. While he is charged with her protection and with uncovering any signs of revolt in her nation, Gerard finds himself irrevocably drawn to the charming beauty. But, as their love blossoms, rebellion rises.",
           "trailerUrl": "kebQMAJkM94",
           "fullUrl": "yqQqcf1lX4g"
+        }
+      ]
+    },
+    {
+      "categoryTitle": "Science-Fiction",
+      "categoryItems": [
+        {
+          "title": "Flora",
+          "image": "https://user-images.githubusercontent.com/20631330/68080346-05922700-fdd0-11e9-8f5c-c55687a999d3.jpg",
+          "rating": "4.5",
+          "description": "In 1929 botanists discover an ancient organism in an uncharted forest.",
+          "trailerUrl": "A9YRqG3ZRI8",
+          "fullUrl": "aozrTaNwQTQ"
+        },
+        {
+          "title": "Singularity Principle",
+          "image": "https://user-images.githubusercontent.com/20631330/67827751-512e9300-faa7-11e9-9e62-1e23bfdf1444.jpg",
+          "rating": "5.1",
+          "description": "A clandestine Black-Ops Agent is desperate to learn how to use parallel universes to manipulate and control other universes.",
+          "trailerUrl": "BvQ8_lttsPo",
+          "fullUrl": "aKB3YOecfa4"
+        },
+        {
+          "title": "Fugitive Alien",
+          "image": "https://user-images.githubusercontent.com/20631330/68079595-674b9480-fdc2-11e9-97e9-abb68804bbe3.jpg",
+          "rating": "2.3",
+          "description": "After an alien attack leaves Japan devastated, an earthbound spacecraft crew rescues an abandoned enemy crew member.",
+          "trailerUrl": "",
+          "fullUrl": "Z71MyPmmGZI"
         }
       ]
     },
