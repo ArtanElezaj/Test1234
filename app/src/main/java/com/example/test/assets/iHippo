@@ -36,6 +36,14 @@
           "fullUrl": "yqQqcf1lX4g"
         },
         {
+          "title": "Style",
+          "image": "https://user-images.githubusercontent.com/20631330/68089585-59385b00-fe38-11e9-8b0d-b71ab0aa9409.jpg",
+          "rating": "5.1",
+          "description": "A car mechanic, Tom, leads a happy life with his family until he falls in love with a girl and Edgar enters into their lives, bringing with him many problems.",
+          "trailerUrl": "OiWFSK5xdtk",
+          "fullUrl": "gcVSKSVETx4"
+        },
+        {
           "title": "10.5",
           "image": "https://user-images.githubusercontent.com/20631330/68079100-5f87f200-fdba-11e9-8612-95f923f7b45b.jpg",
           "rating": "4.8",
@@ -103,6 +111,22 @@
           "description": "A group of brawny barbarian warriors are kidnapped by evil Volcazar. Only the weak, cowardly yet intelligent Ronal can save them all, but he needs the help of the fearless shield-maiden Zandra as he takes on Volcazar and his army.",
           "trailerUrl": "mLbT_eDWGBQ",
           "fullUrl": "aX6WTAYSz-s"
+        },
+        {
+          "title": "Alvin and the Chipmunks 3: Chipwrecked",
+          "image": "https://user-images.githubusercontent.com/20631330/68089278-28a2f200-fe35-11e9-9283-8c4af297e262.jpg",
+          "rating": "4.3",
+          "description": "Dave Seville (Jason Lee), the Chipmunks (Justin Long, Matthew Gray Gubler, Jesse McCartney) and the Chipettes are taking a luxury cruise to the International Music Awards. Of course, Alvin cannot resist the urge to create havoc, and the singing rodents soon find themselves marooned on a seemingly deserted island. While Dave and an unlikely ally launch a search, Alvin and company discover that they are not alone on the island, as they first thought.",
+          "trailerUrl": "m3-Tk3FMYIw",
+          "fullUrl": "Dbln5lECx2o"
+        },
+        {
+          "title": "Max Steel: Team Turbo",
+          "image": "https://user-images.githubusercontent.com/20631330/68089673-55f19f00-fe39-11e9-9f29-a8f9c9f4c0ce.jpg",
+          "rating": "7.9",
+          "description": "Max and Steel face their greatest challenge ever. When Max's greatest enemies unite to take down N-Tek and conquer Copper Canyon, Max and Steel realize that they can't save the day on their own.",
+          "trailerUrl": "1QGUy6XO9_g",
+          "fullUrl": "7EcFbLvXHOk"
         }
       ]
     },
@@ -116,6 +140,14 @@
           "description": "Two years before the Civil War, Django (Jamie Foxx), a slave, finds himself accompanying an unorthodox German bounty hunter named Dr. King Schultz (Christoph Waltz) on a mission to capture the vicious Brittle brothers. Their mission successful, Schultz frees Django, and together they hunt the South's most-wanted criminals. Their travels take them to the infamous plantation of shady Calvin Candie (Leonardo DiCaprio), where Django's long-lost wife (Kerry Washington) is still a slave.",
           "trailerUrl": "K0CXGNJblN0",
           "fullUrl": "3__BJbCVdHA"
+        },
+        {
+          "title": "Baby Driver",
+          "image": "https://user-images.githubusercontent.com/20631330/68089213-8551dd00-fe34-11e9-9df7-82aadddd956f.jpg",
+          "rating": "7.6",
+          "description": "Baby, a music-loving orphan also happens to be the prodigiously talented go-to getaway driver for heist mastermind Doc. With the perfect soundtrack picked out for each and every job, Baby ensures Doc's violent, bank-robbing cronies - including Buddy, Bats and Darling - get in and out of Dodge before it's too late. He's not in it for the long haul though, hoping to nail one last job before riding off into the sunset with beautiful diner waitress Debora. Easier said than done.",
+          "trailerUrl": "D9YZw_X5UzQ",
+          "fullUrl": "k9A7SPPYboE"
         },
         {
           "title": "Karkhana",
@@ -156,6 +188,14 @@
           "description": "When a huge earthquake causes devastation on America's West Coast, a seismologist discovers that it is going to cause the imminent explosion of two nuclear reactors.",
           "trailerUrl": "rivOwpV9LJE",
           "fullUrl": "Gr_GThXL5g8"
+        },
+        {
+          "title": "The Fallen",
+          "image": "https://user-images.githubusercontent.com/20631330/68089327-b4b51980-fe35-11e9-913e-50591d67a0ce.jpg",
+          "rating": "5.4",
+          "description": "On Luce Price's first day at the Sword and Cross boarding school, her attention is captured by the strangely familiar Daniel Grigori. She soon discovers he is a fallen angel who has battled over her for centuries.",
+          "trailerUrl": "O-MRLGxczj8",
+          "fullUrl": "-NpSF1mkuKo"
         },
         {
           "title": "The Elizabeth Smart Story",
@@ -259,12 +299,76 @@
           "fullUrl": "anQPXpPh0cI"
         },
         {
+          "title": "Style",
+          "image": "https://user-images.githubusercontent.com/20631330/68089585-59385b00-fe38-11e9-8b0d-b71ab0aa9409.jpg",
+          "rating": "5.1",
+          "description": "A car mechanic, Tom, leads a happy life with his family until he falls in love with a girl and Edgar enters into their lives, bringing with him many problems.",
+          "trailerUrl": "OiWFSK5xdtk",
+          "fullUrl": "gcVSKSVETx4"
+        },
+        {
+          "title": "Bloodline",
+          "image": "https://user-images.githubusercontent.com/20631330/68089847-1b890180-fe3b-11e9-9549-670575317bfb.jpg",
+          "rating": "8.0",
+          "description": "From the creators of 'Damages, Bloodline' is a dramatic thriller that explores the demons lurking beneath the surface of a contemporary American family. The Rayburns are hard-working pillars of their Florida Keys community, but their past contains dark secrets that they hope remain buried. Paranoia and mistrust build as lies pile up, alliances are shattered, and an unthinkable crime takes place. The tight-knit family's formerly harmonious relationship deteriorates, and good people are forced to consider doing very bad things.",
+          "trailerUrl": "7f-FpB_GoGE",
+          "fullUrl": "jE60eYEIYMo"
+        },
+        {
           "title": "Wu Tang Magic Kick",
           "image": "https://user-images.githubusercontent.com/20631330/68079824-408f5d00-fdc6-11e9-8c29-59891bc6dfab.jpg",
           "rating": "6.2",
           "description": "Be the first to review this item6.21h 28min197716+ Mar Tien Liang is the master of the Magic Kick. When his home is attacked he effortlessly defeats his opponent, but his wife is horrified with such violence. She implores him never to use his magic kick again, but he soon is challenged again.",
           "trailerUrl": "51eXrrJ91VE",
           "fullUrl": "j725ogBJj7Y"
+        },
+        {
+          "title": "Hush",
+          "image": "https://user-images.githubusercontent.com/20631330/68089716-dadcb880-fe39-11e9-91a8-d40ecf10cb4f.jpg",
+          "rating": "6.6",
+          "description": "A deaf writer who retreated into the woods to live a solitary life must fight for her life in silence when a masked killer appears in her window.",
+          "trailerUrl": "SdSsXiEIDSA",
+          "fullUrl": "9TYnlcixjok"
+        },
+        {
+          "title": "Don't Breathe",
+          "image": "https://user-images.githubusercontent.com/20631330/68089759-50e11f80-fe3a-11e9-8104-531d6ced0a95.jpg",
+          "rating": "7.1",
+          "description": "Rocky (Jane Levy), Alex and Money are three Detroit thieves who get their kicks by breaking into the houses of wealthy people. Money gets word about a blind veteran who won a major cash settlement following the death of his only child. Figuring he's an easy target, the trio invades the man's secluded home in an abandoned neighborhood. Finding themselves trapped inside, the young intruders must fight for their lives after making a shocking discovery about their supposedly helpless victim.",
+          "trailerUrl": "76yBTNDB6vU",
+          "fullUrl": "RaHA9JQBxdM"
+        },
+        {
+          "title": "Bloodline",
+          "image": "https://user-images.githubusercontent.com/20631330/68089847-1b890180-fe3b-11e9-9549-670575317bfb.jpg",
+          "rating": "8.0",
+          "description": "From the creators of 'Damages, Bloodline' is a dramatic thriller that explores the demons lurking beneath the surface of a contemporary American family. The Rayburns are hard-working pillars of their Florida Keys community, but their past contains dark secrets that they hope remain buried. Paranoia and mistrust build as lies pile up, alliances are shattered, and an unthinkable crime takes place. The tight-knit family's formerly harmonious relationship deteriorates, and good people are forced to consider doing very bad things.",
+          "trailerUrl": "7f-FpB_GoGE",
+          "fullUrl": "jE60eYEIYMo"
+        },
+        {
+          "title": "Shark Lake",
+          "image": "https://user-images.githubusercontent.com/20631330/68090567-2f386600-fe43-11e9-8c22-f23983a501dd.jpg",
+          "rating": "3.4",
+          "description": "Idyllic Lake Tahoe becomes a bloodbath when man-eating sharks go on the rampage. With the body count rising, the exotic species dealer responsible for releasing the sharks returns to help clean up the mess.",
+          "trailerUrl": "Rq2vRpsyaVY",
+          "fullUrl": "7zp3qnm23bs"
+        },
+        {
+          "title": "The Transporter Refueled",
+          "image": "https://user-images.githubusercontent.com/20631330/68090977-4463c380-fe48-11e9-9fa9-294a7e8637a4.jpg",
+          "rating": "5.2",
+          "description": "Frank Martin is living a less perilous lifestyle, or so he thinks, transporting classified packages for questionable people. Things get complicated when femme fatale Anna and her three accomplices orchestrate a bank heist and the kidnapping of Frank's father. It's all part of a grand plan to take down the human trafficker who victimized her years earlier. Now a pawn in her vengeful scheme, the former special-operations mercenary must use his covert skills to play Anna's dangerous game.",
+          "trailerUrl": "PXmD19clAY4",
+          "fullUrl": "F0F4SMW7RaU"
+        },
+        {
+          "title": "Harbinger",
+          "image": "https://user-images.githubusercontent.com/20631330/68091003-9f95b600-fe48-11e9-9e5f-b0380674f2c0.jpg",
+          "rating": "5.4",
+          "description": "A 12-year-old girl begins having terrible nightmares, which eventually turn into visions and warnings from her deceased grandmother. Soon, the nightmares become all too real.",
+          "trailerUrl": "ygBicrr4Sbg",
+          "fullUrl": "VhEBB86L-5g"
         }
       ]
     },
@@ -314,12 +418,36 @@
       "categoryTitle": "Fantasy",
       "categoryItems": [
         {
+          "title": "Harbinger",
+          "image": "https://user-images.githubusercontent.com/20631330/68091003-9f95b600-fe48-11e9-9e5f-b0380674f2c0.jpg",
+          "rating": "5.4",
+          "description": "A 12-year-old girl begins having terrible nightmares, which eventually turn into visions and warnings from her deceased grandmother. Soon, the nightmares become all too real.",
+          "trailerUrl": "ygBicrr4Sbg",
+          "fullUrl": "VhEBB86L-5g"
+        },
+        {
           "title": "Ronal the Barbarian",
           "image": "https://user-images.githubusercontent.com/20631330/67828326-63113580-faa9-11e9-8374-7e9adb185803.jpg",
           "rating": "6.6",
           "description": "A group of brawny barbarian warriors are kidnapped by evil Volcazar. Only the weak, cowardly yet intelligent Ronal can save them all, but he needs the help of the fearless shield-maiden Zandra as he takes on Volcazar and his army.",
           "trailerUrl": "mLbT_eDWGBQ",
           "fullUrl": "aX6WTAYSz-s"
+        },
+        {
+          "title": "Alvin and the Chipmunks 3: Chipwrecked",
+          "image": "https://user-images.githubusercontent.com/20631330/68089278-28a2f200-fe35-11e9-9283-8c4af297e262.jpg",
+          "rating": "4.3",
+          "description": "Dave Seville (Jason Lee), the Chipmunks (Justin Long, Matthew Gray Gubler, Jesse McCartney) and the Chipettes are taking a luxury cruise to the International Music Awards. Of course, Alvin cannot resist the urge to create havoc, and the singing rodents soon find themselves marooned on a seemingly deserted island. While Dave and an unlikely ally launch a search, Alvin and company discover that they are not alone on the island, as they first thought.",
+          "trailerUrl": "m3-Tk3FMYIw",
+          "fullUrl": "Dbln5lECx2o"
+        },
+        {
+          "title": "The Fallen",
+          "image": "https://user-images.githubusercontent.com/20631330/68089327-b4b51980-fe35-11e9-913e-50591d67a0ce.jpg",
+          "rating": "5.4",
+          "description": "On Luce Price's first day at the Sword and Cross boarding school, her attention is captured by the strangely familiar Daniel Grigori. She soon discovers he is a fallen angel who has battled over her for centuries.",
+          "trailerUrl": "O-MRLGxczj8",
+          "fullUrl": "-NpSF1mkuKo"
         }
       ]
     },
@@ -371,8 +499,61 @@
       ]
     },
     {
+      "categoryTitle": "Horror",
+      "categoryItems": [
+        {
+          "title": "Shark Lake",
+          "image": "https://user-images.githubusercontent.com/20631330/68090567-2f386600-fe43-11e9-8c22-f23983a501dd.jpg",
+          "rating": "3.4",
+          "description": "Idyllic Lake Tahoe becomes a bloodbath when man-eating sharks go on the rampage. With the body count rising, the exotic species dealer responsible for releasing the sharks returns to help clean up the mess.",
+          "trailerUrl": "Rq2vRpsyaVY",
+          "fullUrl": "7zp3qnm23bs"
+        },
+        {
+          "title": "Paramedics",
+          "image": "https://user-images.githubusercontent.com/20631330/68089519-98b27780-fe37-11e9-82d5-d05f99674b73.jpg",
+          "rating": "3.8",
+          "description": "Two killers pose as paramedics and sell their victims' organs on the black market. They kidnap a woman who proves impossible to kill.",
+          "trailerUrl": "fd1CvwpFzW0",
+          "fullUrl": "KgRdXv4H68k"
+        },
+        {
+          "title": "Hush",
+          "image": "https://user-images.githubusercontent.com/20631330/68089716-dadcb880-fe39-11e9-91a8-d40ecf10cb4f.jpg",
+          "rating": "6.6",
+          "description": "A deaf writer who retreated into the woods to live a solitary life must fight for her life in silence when a masked killer appears in her window.",
+          "trailerUrl": "SdSsXiEIDSA",
+          "fullUrl": "9TYnlcixjok"
+        }
+      ]
+    },
+    {
       "categoryTitle": "Crime",
       "categoryItems": [
+        {
+          "title": "The Transporter Refueled",
+          "image": "https://user-images.githubusercontent.com/20631330/68090977-4463c380-fe48-11e9-9fa9-294a7e8637a4.jpg",
+          "rating": "5.2",
+          "description": "Frank Martin is living a less perilous lifestyle, or so he thinks, transporting classified packages for questionable people. Things get complicated when femme fatale Anna and her three accomplices orchestrate a bank heist and the kidnapping of Frank's father. It's all part of a grand plan to take down the human trafficker who victimized her years earlier. Now a pawn in her vengeful scheme, the former special-operations mercenary must use his covert skills to play Anna's dangerous game.",
+          "trailerUrl": "PXmD19clAY4",
+          "fullUrl": "F0F4SMW7RaU"
+        },
+        {
+          "title": "Don't Breathe",
+          "image": "https://user-images.githubusercontent.com/20631330/68089759-50e11f80-fe3a-11e9-8104-531d6ced0a95.jpg",
+          "rating": "7.1",
+          "description": "Rocky (Jane Levy), Alex and Money are three Detroit thieves who get their kicks by breaking into the houses of wealthy people. Money gets word about a blind veteran who won a major cash settlement following the death of his only child. Figuring he's an easy target, the trio invades the man's secluded home in an abandoned neighborhood. Finding themselves trapped inside, the young intruders must fight for their lives after making a shocking discovery about their supposedly helpless victim.",
+          "trailerUrl": "76yBTNDB6vU",
+          "fullUrl": "RaHA9JQBxdM"
+        },
+        {
+          "title": "Baby Driver",
+          "image": "https://user-images.githubusercontent.com/20631330/68089213-8551dd00-fe34-11e9-9df7-82aadddd956f.jpg",
+          "rating": "7.6",
+          "description": "Baby, a music-loving orphan also happens to be the prodigiously talented go-to getaway driver for heist mastermind Doc. With the perfect soundtrack picked out for each and every job, Baby ensures Doc's violent, bank-robbing cronies - including Buddy, Bats and Darling - get in and out of Dodge before it's too late. He's not in it for the long haul though, hoping to nail one last job before riding off into the sunset with beautiful diner waitress Debora. Easier said than done.",
+          "trailerUrl": "D9YZw_X5UzQ",
+          "fullUrl": "k9A7SPPYboE"
+        },
         {
           "title": "Hackers",
           "image": "https://user-images.githubusercontent.com/20631330/68080208-1ee5a400-fdcd-11e9-9a7c-ba80c49379c3.jpg",
