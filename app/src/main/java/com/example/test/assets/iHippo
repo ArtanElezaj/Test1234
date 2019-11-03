@@ -1,60 +1,113 @@
 {
   "allCategories": [
     {
-      "categoryTitle": "Romance",
+      "categoryTitle": "Action",
       "categoryItems": [
         {
-          "title": "Kidnap",
-          "image": "https://user-images.githubusercontent.com/20631330/67827101-25121280-faa5-11e9-9c29-527eb7e8dcb8.jpg",
+          "title": "Mercenaries",
+          "image": "https://user-images.githubusercontent.com/20631330/68079171-c1952700-fdbb-11e9-8500-5cd4c7b2e397.jpg",
+          "rating": "3.7",
+          "description": "When a visiting dignitary is captured and imprisoned while touring a war zone, a team of elite female commandoes is assembled to infiltrate a women's prison and rescue her.",
+          "trailerUrl": "RBQcj8jNNXY",
+          "fullUrl": "Zn23FuzTI-U"
+        },
+        {
+          "title": "Dangerous Game",
+          "image": "https://user-images.githubusercontent.com/20631330/68079445-f1462e00-fdbf-11e9-8e83-756d3e4a2a23.jpg",
           "rating": "5.9",
-          "description": "A typical afternoon in the park turns into a nightmare for single mother Karla Dyson when kidnappers snatch her young son Frankie. With no cellphone and no time to wait for police, Dyson jumps into her car to follow the vehicle that holds Frankie. As the pursuit turns into a frantic, high-speed chase, Karla must risk everything and push herself to the limit to save her beloved child.",
-          "trailerUrl": "VZOw49nBiSU",
-          "fullUrl": "yKap79Y1jWM"
+          "description": "A footballer is forced into a life of crime in order to help clear his best friend from a gambling debt owed to gangsters.",
+          "trailerUrl": "berbsfSoNRQ",
+          "fullUrl": "-4KWrX-e1x0"
         },
         {
-          "title": "Wild Child",
-          "image": "https://user-images.githubusercontent.com/20631330/67827178-8e922100-faa5-11e9-84ff-386f44d13ac9.jpg",
-          "rating": "6.1",
-          "description": "Sixteen-year-old Poppy (Emma Roberts) has everything her unlimited credit cards can buy, and a spoiled attitude to match. After a final thoughtless prank, her exasperated father (Aidan Quinn) ships her off to boarding school in England. There, Poppy meets her match in a stern headmistress (Natasha Richardson) and a class full of girls who will not tolerate her selfishness.",
-          "trailerUrl": "kWgC_aw_yP4",
-          "fullUrl": "H266dqj6tnY"
+          "title": "The Vanquisher",
+          "image": "https://user-images.githubusercontent.com/20631330/68079518-7251f500-fdc1-11e9-852d-62a51571a339.jpg",
+          "rating": "3",
+          "description": "CIA agent Gunja has to fight operatives who are trying to kill her, then after two years of laying low, she comes out of hiding to foil a bomb plot.",
+          "trailerUrl": "o1S0XmBrY64",
+          "fullUrl": "Ch23xdJCStE"
         },
         {
-          "title": "Singularity Principle",
-          "image": "https://user-images.githubusercontent.com/20631330/67827751-512e9300-faa7-11e9-9e62-1e23bfdf1444.jpg",
-          "rating": "5.1",
-          "description": "A clandestine Black-Ops Agent is desperate to learn how to use parallel universes to manipulate and control other universes.",
-          "trailerUrl": "BvQ8_lttsPo",
-          "fullUrl": "aKB3YOecfa4"
+          "title": "Outpost in Morocco",
+          "image": "https://user-images.githubusercontent.com/20631330/68079666-70893100-fdc3-11e9-80b8-ffa34ee500b1.jpg",
+          "rating": "5.3",
+          "description": "Captain Paul Gerard (George Raft) is a soldier known as much for his long list of romantic conquests as for his courage. So trouble brews when he is assigned to guard Cara (Marie Windsor), the French-educated daughter of the emir (Eduard Franz), on her passage home. While he is charged with her protection and with uncovering any signs of revolt in her nation, Gerard finds himself irrevocably drawn to the charming beauty. But, as their love blossoms, rebellion rises.",
+          "trailerUrl": "kebQMAJkM94",
+          "fullUrl": "yqQqcf1lX4g"
         },
-                 {
-                   "title": "Singularity Principle",
-                   "image": "https://user-images.githubusercontent.com/20631330/67827751-512e9300-faa7-11e9-9e62-1e23bfdf1444.jpg",
-                   "rating": "5.1",
-                   "description": "A clandestine Black-Ops Agent is desperate to learn how to use parallel universes to manipulate and control other universes.",
-                   "trailerUrl": "BvQ8_lttsPo",
-                   "fullUrl": "ZpqHrqF4MO4"
-                 },
-                          {
-                            "title": "Singularity Principle",
-                            "image": "https://user-images.githubusercontent.com/20631330/67827751-512e9300-faa7-11e9-9e62-1e23bfdf1444.jpg",
-                            "rating": "5.1",
-                            "description": "A clandestine Black-Ops Agent is desperate to learn how to use parallel universes to manipulate and control other universes.",
-                            "trailerUrl": "BvQ8_lttsPo",
-                            "fullUrl": "d8Rgr3LkzvY"
-                          },
-                                   {
-                                     "title": "Singularity Principle",
-                                     "image": "https://user-images.githubusercontent.com/20631330/67827751-512e9300-faa7-11e9-9e62-1e23bfdf1444.jpg",
-                                     "rating": "5.1",
-                                     "description": "A clandestine Black-Ops Agent is desperate to learn how to use parallel universes to manipulate and control other universes.",
-                                     "trailerUrl": "BvQ8_lttsPo",
-                                     "fullUrl": "m0GwcmwnNak"
-                                   }
+        {
+          "title": "10.5",
+          "image": "https://user-images.githubusercontent.com/20631330/68079100-5f87f200-fdba-11e9-8612-95f923f7b45b.jpg",
+          "rating": "4.8",
+          "description": "When a huge earthquake causes devastation on America's West Coast, a seismologist discovers that it is going to cause the imminent explosion of two nuclear reactors.",
+          "trailerUrl": "rivOwpV9LJE",
+          "fullUrl": "Gr_GThXL5g8"
+        },
+        {
+          "title": "Fugitive Alien",
+          "image": "https://user-images.githubusercontent.com/20631330/68079595-674b9480-fdc2-11e9-97e9-abb68804bbe3.jpg",
+          "rating": "2.3",
+          "description": "After an alien attack leaves Japan devastated, an earthbound spacecraft crew rescues an abandoned enemy crew member.",
+          "trailerUrl": "",
+          "fullUrl": "Z71MyPmmGZI"
+        },
+        {
+          "title": "Wu Tang Magic Kick",
+          "image": "https://user-images.githubusercontent.com/20631330/68079824-408f5d00-fdc6-11e9-8c29-59891bc6dfab.jpg",
+          "rating": "6.2",
+          "description": "Be the first to review this item6.21h 28min197716+ Mar Tien Liang is the master of the Magic Kick. When his home is attacked he effortlessly defeats his opponent, but his wife is horrified with such violence. She implores him never to use his magic kick again, but he soon is challenged again.",
+          "trailerUrl": "51eXrrJ91VE",
+          "fullUrl": "j725ogBJj7Y"
+        },
+        {
+          "title": "Ninja Fist of Fire",
+          "image": "https://user-images.githubusercontent.com/20631330/68079857-e4790880-fdc6-11e9-9273-46d7d2e90f21.jpg",
+          "rating": "5.3",
+          "description": "A family hires a swordswoman (Chang Ching Chi) to rescue the kidnapped crown prince from his enemy.",
+          "trailerUrl": "rYWDakJf41I",
+          "fullUrl": "5lrHshv-HJ0"
+        },
+        {
+          "title": "Killpoint",
+          "image": "https://user-images.githubusercontent.com/20631330/68079928-3a9a7b80-fdc8-11e9-8d7c-d43817ca8200.jpg",
+          "rating": "4.4",
+          "description": "A Chinese-American policeman (Leo Fong) and a federal agent (Richard Roundtree) hunt dealers in stolen automatic weapons.",
+          "trailerUrl": "RH0zwZ4uiHk",
+          "fullUrl": "U1ddaCRvo5U"
+        }
       ]
     },
     {
-      "categoryTitle": "Action",
+      "categoryTitle": "Adventure",
+      "categoryItems": [
+        {
+          "title": "Ronal the Barbarian",
+          "image": "https://user-images.githubusercontent.com/20631330/67828326-63113580-faa9-11e9-8374-7e9adb185803.jpg",
+          "rating": "6.6",
+          "description": "A group of brawny barbarian warriors are kidnapped by evil Volcazar. Only the weak, cowardly yet intelligent Ronal can save them all, but he needs the help of the fearless shield-maiden Zandra as he takes on Volcazar and his army.",
+          "trailerUrl": "mLbT_eDWGBQ",
+          "fullUrl": "aX6WTAYSz-s"
+        },
+        {
+          "title": "10.5",
+          "image": "https://user-images.githubusercontent.com/20631330/68079100-5f87f200-fdba-11e9-8612-95f923f7b45b.jpg",
+          "rating": "4.8",
+          "description": "When a huge earthquake causes devastation on America's West Coast, a seismologist discovers that it is going to cause the imminent explosion of two nuclear reactors.",
+          "trailerUrl": "rivOwpV9LJE",
+          "fullUrl": "Gr_GThXL5g8"
+        },
+        {
+          "title": "Mercenaries",
+          "image": "https://user-images.githubusercontent.com/20631330/68079171-c1952700-fdbb-11e9-8500-5cd4c7b2e397.jpg",
+          "rating": "3.7",
+          "description": "When a visiting dignitary is captured and imprisoned while touring a war zone, a team of elite female commandoes is assembled to infiltrate a women's prison and rescue her.",
+          "trailerUrl": "RBQcj8jNNXY",
+          "fullUrl": "Zn23FuzTI-U"
+        }
+      ]
+    },
+    {
+      "categoryTitle": "Drama",
       "categoryItems": [
         {
           "title": "Django Unchained",
@@ -65,57 +118,36 @@
           "fullUrl": "3__BJbCVdHA"
         },
         {
-          "title": "The Elizabeth Smart Story",
-          "image": "https://user-images.githubusercontent.com/20631330/67828829-45dd6680-faab-11e9-94ad-c2cd1cf8bcd9.jpg",
+          "title": "Wild Child",
+          "image": "https://user-images.githubusercontent.com/20631330/67827178-8e922100-faa5-11e9-84ff-386f44d13ac9.jpg",
+          "rating": "6.1",
+          "description": "Sixteen-year-old Poppy (Emma Roberts) has everything her unlimited credit cards can buy, and a spoiled attitude to match. After a final thoughtless prank, her exasperated father (Aidan Quinn) ships her off to boarding school in England. There, Poppy meets her match in a stern headmistress (Natasha Richardson) and a class full of girls who will not tolerate her selfishness.",
+          "trailerUrl": "kWgC_aw_yP4",
+          "fullUrl": "H266dqj6tnY"
+        },
+        {
+          "title": "Kidnap",
+          "image": "https://user-images.githubusercontent.com/20631330/67827101-25121280-faa5-11e9-9c29-527eb7e8dcb8.jpg",
           "rating": "5.9",
-          "description": "Based on the true story of the kidnapping of teenager Elizabeth Smart in Salt Lake City, Utah in 2002. Her parents Ed and Lois have to deal with the suspicions of the police that they have been involved in their daughter's disappearance as well as keeping her case in the public eye.",
-          "trailerUrl": "6FrLgvsv7Cw",
-          "fullUrl": "ybX35LZI4FM"
+          "description": "A typical afternoon in the park turns into a nightmare for single mother Karla Dyson when kidnappers snatch her young son Frankie. With no cellphone and no time to wait for police, Dyson jumps into her car to follow the vehicle that holds Frankie. As the pursuit turns into a frantic, high-speed chase, Karla must risk everything and push herself to the limit to save her beloved child.",
+          "trailerUrl": "VZOw49nBiSU",
+          "fullUrl": "yKap79Y1jWM"
         },
         {
-          "title": "Ronal the Barbarian",
-          "image": "https://user-images.githubusercontent.com/20631330/67828326-63113580-faa9-11e9-8374-7e9adb185803.jpg",
+          "title": "Karkhana",
+          "image": "https://user-images.githubusercontent.com/20631330/68079983-12f7e300-fdc9-11e9-975c-c5becd135a43.jpg",
           "rating": "6.6",
-          "description": "A group of brawny barbarian warriors are kidnapped by evil Volcazar. Only the weak, cowardly yet intelligent Ronal can save them all, but he needs the help of the fearless shield-maiden Zandra as he takes on Volcazar and his army.",
-          "trailerUrl": "mLbT_eDWGBQ",
-          "fullUrl": "aX6WTAYSz-s"
+          "description": "KARKHANA is a romantic drama with a strong social message. Although the main plot has been kept unrevealed to keep the suspense and maintain the surprise element but overall it is a story about a women's wrong choice in life and the difficulties she faces to come to terms with and to overcome these challenges. The film is able to bring forward a social issue, challenging the stereotypes on women hood and its boundaries. In a nutshell it is a complete family entertainment package with romance, hatred, friendship, humor and action with an underlining social message.",
+          "trailerUrl": "lglmoTNGWnc",
+          "fullUrl": "I_N5CKgs6_k"
         },
         {
-          "title": "",
-          "image": "https://user-images.githubusercontent.com/20631330/67351952-afde9480-f51c-11e9-9779-498898b254b6.png",
-          "rating": "",
-          "description": "",
-          "trailerUrl": "",
+          "title": "The rock The Challenger",
+          "image": "https://user-images.githubusercontent.com/20631330/68079001-1c2c8400-fdb8-11e9-8704-5ab95e4a7639.jpg",
+          "rating": "5.6",
+          "description": "The Challenger is an American sports drama film written and directed by Kent Moran and executive produced by Michael Clarke Duncan, who also co-stars. In addition to Duncan, whose last feature film it was, The Challenger features Kent Moran, S. Epatha Merkerson and Justin Hartley.",
+          "trailerUrl": "3hpF1aDs9X0",
           "fullUrl": "dBgftmZkQRg"
-        },
-        {
-          "title": "",
-          "image": "https://user-images.githubusercontent.com/20631330/67351949-afde9480-f51c-11e9-9442-0174164f5c9a.png",
-          "rating": "",
-          "description": "",
-          "trailerUrl": "",
-          "fullUrl": "Gr_GThXL5g8"
-        },
-        {
-          "title": "",
-          "image": "https://user-images.githubusercontent.com/20631330/67351952-afde9480-f51c-11e9-9779-498898b254b6.png",
-          "rating": "",
-          "description": "",
-          "trailerUrl": "",
-          "fullUrl": "Zn23FuzTI-U"
-        }
-      ]
-    },
-    {
-      "categoryTitle": "Thriller",
-      "categoryItems": [
-        {
-          "title": "Street Dreams",
-          "image": "https://user-images.githubusercontent.com/20631330/67827871-a79bd180-faa7-11e9-8501-94fbc734d3e1.jpg",
-          "rating": "6.3",
-          "description": "An up and coming skater runs off to compete in a competition where he could become the next star.",
-          "trailerUrl": "usW_v8sbFuU",
-          "fullUrl": "HGezagpjZiA"
         },
         {
           "title": "Lolita",
@@ -126,12 +158,52 @@
           "fullUrl": "oe6FJPzi-bQ"
         },
         {
-          "title": "Force 2",
-          "image": "https://user-images.githubusercontent.com/20631330/67828268-28a79880-faa9-11e9-902a-1cbff55d798e.jpg",
+          "title": "Street Dreams",
+          "image": "https://user-images.githubusercontent.com/20631330/67827871-a79bd180-faa7-11e9-8501-94fbc734d3e1.jpg",
+          "rating": "6.3",
+          "description": "An up and coming skater runs off to compete in a competition where he could become the next star.",
+          "trailerUrl": "usW_v8sbFuU",
+          "fullUrl": "HGezagpjZiA"
+        },
+        {
+          "title": "10.5",
+          "image": "https://user-images.githubusercontent.com/20631330/68079100-5f87f200-fdba-11e9-8612-95f923f7b45b.jpg",
+          "rating": "4.8",
+          "description": "When a huge earthquake causes devastation on America's West Coast, a seismologist discovers that it is going to cause the imminent explosion of two nuclear reactors.",
+          "trailerUrl": "rivOwpV9LJE",
+          "fullUrl": "Gr_GThXL5g8"
+        },
+        {
+          "title": "The Elizabeth Smart Story",
+          "image": "https://user-images.githubusercontent.com/20631330/67828829-45dd6680-faab-11e9-94ad-c2cd1cf8bcd9.jpg",
+          "rating": "5.9",
+          "description": "Based on the true story of the kidnapping of teenager Elizabeth Smart in Salt Lake City, Utah in 2002. Her parents Ed and Lois have to deal with the suspicions of the police that they have been involved in their daughter's disappearance as well as keeping her case in the public eye.",
+          "trailerUrl": "6FrLgvsv7Cw",
+          "fullUrl": "ybX35LZI4FM"
+        },
+        {
+          "title": "Hackers",
+          "image": "https://user-images.githubusercontent.com/20631330/68080208-1ee5a400-fdcd-11e9-9a7c-ba80c49379c3.jpg",
           "rating": "6.2",
-          "description": "An ex-cop investigates the death of his best friend and two other spies, killings that lead to a mole operating from India's embassy in Budapest.",
-          "trailerUrl": "r4O4Xec60_k",
-          "fullUrl": "cx4Xwae513g"
+          "description": "A teenage hacker finds himself framed for the theft of millions of dollars from a major corporation. Master hacker Dade Murphy, aka Zero Cool, aka Crash Override, has been banned from touching a keyboard for seven years after crashing over 1,500 Wall Street computers at the age of 11. Now keen to get back in front of a monitor, he finds himself in more trouble than ever.",
+          "trailerUrl": "Rn2cf_wJ4f4",
+          "fullUrl": "bmuCplaG9lk"
+        },
+        {
+          "title": "Diya (కణం)",
+          "image": "https://user-images.githubusercontent.com/20631330/68079705-2fdde780-fdc4-11e9-87df-71c281bb2138.jpeg",
+          "rating": "5.7",
+          "description": "After abortion, a woman's life takes an unexpected turn when she is visited by the foetus, who is now grown up and is visible to her.",
+          "trailerUrl": "3nqPDjZj4Jk",
+          "fullUrl": "k29dfzGNed8"
+        },
+        {
+          "title": "Flora",
+          "image": "https://user-images.githubusercontent.com/20631330/68080346-05922700-fdd0-11e9-8f5c-c55687a999d3.jpg",
+          "rating": "4.5",
+          "description": "In 1929 botanists discover an ancient organism in an uncharted forest.",
+          "trailerUrl": "A9YRqG3ZRI8",
+          "fullUrl": "aozrTaNwQTQ"
         },
         {
           "title": "The End Of War",
@@ -142,315 +214,180 @@
           "fullUrl": "-LsXxAJE_Vw"
         },
         {
-          "title": "",
-          "image": "https://user-images.githubusercontent.com/20631330/67351952-afde9480-f51c-11e9-9779-498898b254b6.png",
-          "rating": "",
-          "description": "",
-          "trailerUrl": "",
-          "fullUrl": "-4KWrX-e1x0"
-        },
-        {
-          "title": "",
-          "image": "https://user-images.githubusercontent.com/20631330/67351949-afde9480-f51c-11e9-9442-0174164f5c9a.png",
-          "rating": "",
-          "description": "",
-          "trailerUrl": "",
-          "fullUrl": "Ch23xdJCStE"
-        },
-        {
-          "title": "",
-          "image": "https://user-images.githubusercontent.com/20631330/67351952-afde9480-f51c-11e9-9779-498898b254b6.png",
-          "rating": "",
-          "description": "",
-          "trailerUrl": "",
-          "fullUrl": "4ngueR4ik7c"
-        },
-        {
-          "title": "",
-          "image": "https://user-images.githubusercontent.com/20631330/67351952-afde9480-f51c-11e9-9779-498898b254b6.png",
-          "rating": "",
-          "description": "",
-          "trailerUrl": "",
-          "fullUrl": "QqHiDRYLgiQ"
-        },
-        {
-          "title": "",
-          "image": "https://user-images.githubusercontent.com/20631330/67351949-afde9480-f51c-11e9-9442-0174164f5c9a.png",
-          "rating": "",
-          "description": "",
-          "trailerUrl": "",
-          "fullUrl": "Z71MyPmmGZI"
-        },
-        {
-          "title": "",
-          "image": "https://user-images.githubusercontent.com/20631330/67351952-afde9480-f51c-11e9-9779-498898b254b6.png",
-          "rating": "",
-          "description": "",
-          "trailerUrl": "",
-          "fullUrl": "yqQqcf1lX4g"
-        },
-        {
-          "title": "",
-          "image": "https://user-images.githubusercontent.com/20631330/67351952-afde9480-f51c-11e9-9779-498898b254b6.png",
-          "rating": "",
-          "description": "",
-          "trailerUrl": "",
-          "fullUrl": "zpUMQLEenGI"
-        },
-        {
-          "title": "",
-          "image": "https://user-images.githubusercontent.com/20631330/67351949-afde9480-f51c-11e9-9442-0174164f5c9a.png",
-          "rating": "",
-          "description": "",
-          "trailerUrl": "",
-          "fullUrl": "-FtAcYxjHG0"
-        },
-        {
-          "title": "",
-          "image": "https://user-images.githubusercontent.com/20631330/67351952-afde9480-f51c-11e9-9779-498898b254b6.png",
-          "rating": "",
-          "description": "",
-          "trailerUrl": "",
-          "fullUrl": "anQPXpPh0cI"
-        }
-      ]
-    },
-    {
-      "categoryTitle": "Comedies",
-      "categoryItems": [
-        {
-          "title": "",
-          "image": "https://user-images.githubusercontent.com/20631330/67351952-afde9480-f51c-11e9-9779-498898b254b6.png",
-          "rating": "",
-          "description": "",
-          "trailerUrl": "",
-          "fullUrl": "k29dfzGNed8"
-        },
-        {
-          "title": "",
-          "image": "https://user-images.githubusercontent.com/20631330/67351949-afde9480-f51c-11e9-9442-0174164f5c9a.png",
-          "rating": "",
-          "description": "",
-          "trailerUrl": "",
-          "fullUrl": "j725ogBJj7Y"
-        },
-        {
-          "title": "",
-          "image": "https://user-images.githubusercontent.com/20631330/67351952-afde9480-f51c-11e9-9779-498898b254b6.png",
-          "rating": "",
-          "description": "",
-          "trailerUrl": "",
-          "fullUrl": "5lrHshv-HJ0"
-        },
-        {
-          "title": "",
-          "image": "https://user-images.githubusercontent.com/20631330/67351952-afde9480-f51c-11e9-9779-498898b254b6.png",
-          "rating": "",
-          "description": "",
-          "trailerUrl": "",
+          "title": "Killpoint",
+          "image": "https://user-images.githubusercontent.com/20631330/68079928-3a9a7b80-fdc8-11e9-8d7c-d43817ca8200.jpg",
+          "rating": "4.4",
+          "description": "A Chinese-American policeman (Leo Fong) and a federal agent (Richard Roundtree) hunt dealers in stolen automatic weapons.",
+          "trailerUrl": "RH0zwZ4uiHk",
           "fullUrl": "U1ddaCRvo5U"
         },
         {
-          "title": "",
-          "image": "https://user-images.githubusercontent.com/20631330/67351949-afde9480-f51c-11e9-9442-0174164f5c9a.png",
-          "rating": "",
+          "title": "Leela",
+          "image": "https://user-images.githubusercontent.com/20631330/68080178-4425e280-fdcc-11e9-8c98-3039b014f564.jpg",
+          "rating": "6.3",
           "description": "",
-          "trailerUrl": "",
-          "fullUrl": "I_N5CKgs6_k"
-        },
-        {
-          "title": "",
-          "image": "https://user-images.githubusercontent.com/20631330/67351952-afde9480-f51c-11e9-9779-498898b254b6.png",
-          "rating": "",
-          "description": "",
-          "trailerUrl": "",
+          "trailerUrl": "PfMA5kUwiGQ",
           "fullUrl": "3nZWn5SxN9U"
+        }
+      ]
+    },
+    {
+      "categoryTitle": "Thriller",
+      "categoryItems": [
+        {
+          "title": "Kidnap",
+          "image": "https://user-images.githubusercontent.com/20631330/67827101-25121280-faa5-11e9-9c29-527eb7e8dcb8.jpg",
+          "rating": "5.9",
+          "description": "A typical afternoon in the park turns into a nightmare for single mother Karla Dyson when kidnappers snatch her young son Frankie. With no cellphone and no time to wait for police, Dyson jumps into her car to follow the vehicle that holds Frankie. As the pursuit turns into a frantic, high-speed chase, Karla must risk everything and push herself to the limit to save her beloved child.",
+          "trailerUrl": "VZOw49nBiSU",
+          "fullUrl": "yKap79Y1jWM"
         },
         {
-          "title": "",
-          "image": "https://user-images.githubusercontent.com/20631330/67351949-afde9480-f51c-11e9-9442-0174164f5c9a.png",
-          "rating": "",
-          "description": "",
+          "title": "Diya (కణం)",
+          "image": "https://user-images.githubusercontent.com/20631330/68079705-2fdde780-fdc4-11e9-87df-71c281bb2138.jpeg",
+          "rating": "5.7",
+          "description": "After abortion, a woman's life takes an unexpected turn when she is visited by the foetus, who is now grown up and is visible to her.",
+          "trailerUrl": "3nqPDjZj4Jk",
+          "fullUrl": "k29dfzGNed8"
+        },
+        {
+          "title": "Submarine Alert",
+          "image": "https://user-images.githubusercontent.com/20631330/68079736-bdb9d280-fdc4-11e9-8c4c-210dfe4bab68.jpg",
+          "rating": "5.5",
+          "description": "An FBI agent (Richard Arlen) publicly denounces his employer to facilitate infiltration of a spy ring.",
           "trailerUrl": "",
+          "fullUrl": "anQPXpPh0cI"
+        },
+        {
+          "title": "Wu Tang Magic Kick",
+          "image": "https://user-images.githubusercontent.com/20631330/68079824-408f5d00-fdc6-11e9-8c29-59891bc6dfab.jpg",
+          "rating": "6.2",
+          "description": "Be the first to review this item6.21h 28min197716+ Mar Tien Liang is the master of the Magic Kick. When his home is attacked he effortlessly defeats his opponent, but his wife is horrified with such violence. She implores him never to use his magic kick again, but he soon is challenged again.",
+          "trailerUrl": "51eXrrJ91VE",
+          "fullUrl": "j725ogBJj7Y"
+        }
+      ]
+    },
+    {
+      "categoryTitle": "Teen",
+      "categoryItems": [
+        {
+          "title": "Wild Child",
+          "image": "https://user-images.githubusercontent.com/20631330/67827178-8e922100-faa5-11e9-84ff-386f44d13ac9.jpg",
+          "rating": "6.1",
+          "description": "Sixteen-year-old Poppy (Emma Roberts) has everything her unlimited credit cards can buy, and a spoiled attitude to match. After a final thoughtless prank, her exasperated father (Aidan Quinn) ships her off to boarding school in England. There, Poppy meets her match in a stern headmistress (Natasha Richardson) and a class full of girls who will not tolerate her selfishness.",
+          "trailerUrl": "kWgC_aw_yP4",
+          "fullUrl": "H266dqj6tnY"
+        }
+      ]
+    },
+    {
+      "categoryTitle": "Science-Fiction",
+      "categoryItems": [
+        {
+          "title": "Flora",
+          "image": "https://user-images.githubusercontent.com/20631330/68080346-05922700-fdd0-11e9-8f5c-c55687a999d3.jpg",
+          "rating": "4.5",
+          "description": "In 1929 botanists discover an ancient organism in an uncharted forest.",
+          "trailerUrl": "A9YRqG3ZRI8",
+          "fullUrl": "aozrTaNwQTQ"
+        },
+        {
+          "title": "Singularity Principle",
+          "image": "https://user-images.githubusercontent.com/20631330/67827751-512e9300-faa7-11e9-9e62-1e23bfdf1444.jpg",
+          "rating": "5.1",
+          "description": "A clandestine Black-Ops Agent is desperate to learn how to use parallel universes to manipulate and control other universes.",
+          "trailerUrl": "BvQ8_lttsPo",
+          "fullUrl": "aKB3YOecfa4"
+        },
+        {
+          "title": "Fugitive Alien",
+          "image": "https://user-images.githubusercontent.com/20631330/68079595-674b9480-fdc2-11e9-97e9-abb68804bbe3.jpg",
+          "rating": "2.3",
+          "description": "After an alien attack leaves Japan devastated, an earthbound spacecraft crew rescues an abandoned enemy crew member.",
+          "trailerUrl": "",
+          "fullUrl": "Z71MyPmmGZI"
+        }
+      ]
+    },
+    {
+      "categoryTitle": "Fantasy",
+      "categoryItems": [
+        {
+          "title": "Ronal the Barbarian",
+          "image": "https://user-images.githubusercontent.com/20631330/67828326-63113580-faa9-11e9-8374-7e9adb185803.jpg",
+          "rating": "6.6",
+          "description": "A group of brawny barbarian warriors are kidnapped by evil Volcazar. Only the weak, cowardly yet intelligent Ronal can save them all, but he needs the help of the fearless shield-maiden Zandra as he takes on Volcazar and his army.",
+          "trailerUrl": "mLbT_eDWGBQ",
+          "fullUrl": "aX6WTAYSz-s"
+        }
+      ]
+    },
+    {
+      "categoryTitle": "Sport",
+      "categoryItems": [
+        {
+          "title": "Street Dreams",
+          "image": "https://user-images.githubusercontent.com/20631330/67827871-a79bd180-faa7-11e9-8501-94fbc734d3e1.jpg",
+          "rating": "6.3",
+          "description": "An up and coming skater runs off to compete in a competition where he could become the next star.",
+          "trailerUrl": "usW_v8sbFuU",
+          "fullUrl": "HGezagpjZiA"
+        }
+      ]
+    },
+    {
+      "categoryTitle": "Romance",
+      "categoryItems": [
+        {
+          "title": "Lolita",
+          "image": "https://user-images.githubusercontent.com/20631330/67827735-4247e080-faa7-11e9-8297-63d1196d7c1f.jpg",
+          "rating": "6.9",
+          "description": "Adrian Lyne's adaptation of Nabokov's controversial novel, the classic tale of a man's inappropriate obsession with a beautiful young girl.",
+          "trailerUrl": "O0hwPza1Ngc",
+          "fullUrl": "oe6FJPzi-bQ"
+        },
+        {
+          "title": "Outpost in Morocco",
+          "image": "https://user-images.githubusercontent.com/20631330/68079666-70893100-fdc3-11e9-80b8-ffa34ee500b1.jpg",
+          "rating": "5.3",
+          "description": "Captain Paul Gerard (George Raft) is a soldier known as much for his long list of romantic conquests as for his courage. So trouble brews when he is assigned to guard Cara (Marie Windsor), the French-educated daughter of the emir (Eduard Franz), on her passage home. While he is charged with her protection and with uncovering any signs of revolt in her nation, Gerard finds himself irrevocably drawn to the charming beauty. But, as their love blossoms, rebellion rises.",
+          "trailerUrl": "kebQMAJkM94",
+          "fullUrl": "yqQqcf1lX4g"
+        }
+      ]
+    },
+    {
+      "categoryTitle": "Mystery",
+      "categoryItems": [
+        {
+          "title": "Force 2",
+          "image": "https://user-images.githubusercontent.com/20631330/67828268-28a79880-faa9-11e9-902a-1cbff55d798e.jpg",
+          "rating": "6.2",
+          "description": "An ex-cop investigates the death of his best friend and two other spies, killings that lead to a mole operating from India's embassy in Budapest.",
+          "trailerUrl": "r4O4Xec60_k",
+          "fullUrl": "cx4Xwae513g"
+        }
+      ]
+    },
+    {
+      "categoryTitle": "Crime",
+      "categoryItems": [
+        {
+          "title": "Hackers",
+          "image": "https://user-images.githubusercontent.com/20631330/68080208-1ee5a400-fdcd-11e9-9a7c-ba80c49379c3.jpg",
+          "rating": "6.2",
+          "description": "A teenage hacker finds himself framed for the theft of millions of dollars from a major corporation. Master hacker Dade Murphy, aka Zero Cool, aka Crash Override, has been banned from touching a keyboard for seven years after crashing over 1,500 Wall Street computers at the age of 11. Now keen to get back in front of a monitor, he finds himself in more trouble than ever.",
+          "trailerUrl": "Rn2cf_wJ4f4",
           "fullUrl": "bmuCplaG9lk"
         },
         {
-          "title": "",
-          "image": "https://user-images.githubusercontent.com/20631330/67351952-afde9480-f51c-11e9-9779-498898b254b6.png",
-          "rating": "",
-          "description": "",
-          "trailerUrl": "",
-          "fullUrl": "aozrTaNwQTQ"
-        }
-      ]
-    },
-    {
-      "categoryTitle": "Dramas",
-      "categoryItems": [
-        {
-          "title": "",
-          "image": "https://user-images.githubusercontent.com/20631330/67351952-afde9480-f51c-11e9-9779-498898b254b6.png",
-          "rating": "",
-          "description": "",
-          "trailerUrl": "",
-          "fullUrl": "k9A7SPPYboE"
-        },
-        {
-          "title": "",
-          "image": "https://user-images.githubusercontent.com/20631330/67351949-afde9480-f51c-11e9-9442-0174164f5c9a.png",
-          "rating": "",
-          "description": "",
-          "trailerUrl": "",
-          "fullUrl": "Dbln5lECx2o"
-        },
-        {
-          "title": "",
-          "image": "https://user-images.githubusercontent.com/20631330/67351952-afde9480-f51c-11e9-9779-498898b254b6.png",
-          "rating": "",
-          "description": "",
-          "trailerUrl": "",
-          "fullUrl": "-NpSF1mkuKo"
-        },
-        {
-          "title": "",
-          "image": "https://user-images.githubusercontent.com/20631330/67351952-afde9480-f51c-11e9-9779-498898b254b6.png",
-          "rating": "",
-          "description": "",
-          "trailerUrl": "",
-          "fullUrl": "RUSQxQrcCNQ"
-        }
-      ]
-    },
-    {
-      "categoryTitle": "Sci-Fi",
-      "categoryItems": [
-        {
-          "title": "",
-          "image": "https://user-images.githubusercontent.com/20631330/67351952-afde9480-f51c-11e9-9779-498898b254b6.png",
-          "rating": "",
-          "description": "",
-          "trailerUrl": "",
-          "fullUrl": "eDOHSa39iYY"
-        },
-        {
-          "title": "",
-          "image": "https://user-images.githubusercontent.com/20631330/67351949-afde9480-f51c-11e9-9442-0174164f5c9a.png",
-          "rating": "",
-          "description": "",
-          "trailerUrl": "",
-          "fullUrl": "KgRdXv4H68k"
-        },
-        {
-          "title": "",
-          "image": "https://user-images.githubusercontent.com/20631330/67351952-afde9480-f51c-11e9-9779-498898b254b6.png",
-          "rating": "",
-          "description": "",
-          "trailerUrl": "",
-          "fullUrl": "GLUNE1bI_WM"
-        },
-        {
-          "title": "",
-          "image": "https://user-images.githubusercontent.com/20631330/67351952-afde9480-f51c-11e9-9779-498898b254b6.png",
-          "rating": "",
-          "description": "",
-          "trailerUrl": "",
-          "fullUrl": "gcVSKSVETx4"
-        },
-        {
-          "title": "",
-          "image": "https://user-images.githubusercontent.com/20631330/67351949-afde9480-f51c-11e9-9442-0174164f5c9a.png",
-          "rating": "",
-          "description": "",
-          "trailerUrl": "",
-          "fullUrl": "7EcFbLvXHOk"
-        },
-        {
-          "title": "",
-          "image": "https://user-images.githubusercontent.com/20631330/67351952-afde9480-f51c-11e9-9779-498898b254b6.png",
-          "rating": "",
-          "description": "",
-          "trailerUrl": "",
-          "fullUrl": "9TYnlcixjok"
-        },
-        {
-          "title": "",
-          "image": "https://user-images.githubusercontent.com/20631330/67351952-afde9480-f51c-11e9-9779-498898b254b6.png",
-          "rating": "",
-          "description": "",
-          "trailerUrl": "",
-          "fullUrl": "RaHA9JQBxdM"
-        },
-        {
-          "title": "",
-          "image": "https://user-images.githubusercontent.com/20631330/67351949-afde9480-f51c-11e9-9442-0174164f5c9a.png",
-          "rating": "",
-          "description": "",
-          "trailerUrl": "",
-          "fullUrl": "xT1iPViSXo8"
-        },
-        {
-          "title": "",
-          "image": "https://user-images.githubusercontent.com/20631330/67351952-afde9480-f51c-11e9-9779-498898b254b6.png",
-          "rating": "",
-          "description": "",
-          "trailerUrl": "",
-          "fullUrl": "5OB687nImNI"
-        },
-        {
-          "title": "",
-          "image": "https://user-images.githubusercontent.com/20631330/67351952-afde9480-f51c-11e9-9779-498898b254b6.png",
-          "rating": "",
-          "description": "",
-          "trailerUrl": "",
-          "fullUrl": "jE60eYEIYMo"
-        },
-        {
-          "title": "",
-          "image": "https://user-images.githubusercontent.com/20631330/67351952-afde9480-f51c-11e9-9779-498898b254b6.png",
-          "rating": "",
-          "description": "",
-          "trailerUrl": "",
-          "fullUrl": "7zp3qnm23bs"
-        },
-        {
-          "title": "",
-          "image": "https://user-images.githubusercontent.com/20631330/67351952-afde9480-f51c-11e9-9779-498898b254b6.png",
-          "rating": "",
-          "description": "",
-          "trailerUrl": "",
-          "fullUrl": "UvUOIfM0Wf0"
-        },
-        {
-          "title": "",
-          "image": "https://user-images.githubusercontent.com/20631330/67351952-afde9480-f51c-11e9-9779-498898b254b6.png",
-          "rating": "",
-          "description": "",
-          "trailerUrl": "",
-          "fullUrl": "F0F4SMW7RaU"
-        },
-        {
-          "title": "",
-          "image": "https://user-images.githubusercontent.com/20631330/67351952-afde9480-f51c-11e9-9779-498898b254b6.png",
-          "rating": "",
-          "description": "",
-          "trailerUrl": "",
-          "fullUrl": "VhEBB86L-5g"
-        },
-        {
-          "title": "",
-          "image": "https://user-images.githubusercontent.com/20631330/67351952-afde9480-f51c-11e9-9779-498898b254b6.png",
-          "rating": "",
-          "description": "",
-          "trailerUrl": "",
-          "fullUrl": "Xk9DqYftgDU"
-        },
-        {
-          "title": "",
-          "image": "https://user-images.githubusercontent.com/20631330/67351952-afde9480-f51c-11e9-9779-498898b254b6.png",
-          "rating": "",
-          "description": "",
-          "trailerUrl": "",
-          "fullUrl": "qDqBOGpplBk"
+          "title": "Force 2",
+          "image": "https://user-images.githubusercontent.com/20631330/67828268-28a79880-faa9-11e9-902a-1cbff55d798e.jpg",
+          "rating": "6.2",
+          "description": "An ex-cop investigates the death of his best friend and two other spies, killings that lead to a mole operating from India's embassy in Budapest.",
+          "trailerUrl": "r4O4Xec60_k",
+          "fullUrl": "cx4Xwae513g"
         }
       ]
     }
