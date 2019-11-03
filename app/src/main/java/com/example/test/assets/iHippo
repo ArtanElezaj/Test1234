@@ -1,6 +1,91 @@
 {
   "allCategories": [
     {
+      "categoryTitle": "New Uploads",
+      "categoryItems": [
+        {
+          "title": "Starcraft : Infinity War",
+          "image": "https://user-images.githubusercontent.com/20631330/68091568-64e34c00-fe4f-11e9-93fc-96b9c421006c.jpg",
+          "rating": "8.5",
+          "description": "",
+          "trailerUrl": "",
+          "fullUrl": "cDk0uHuK6Rk"
+        },
+        {
+          "title": "Starcraft 2 - Heart of the Swarm",
+          "image": "Title1",
+          "rating": "",
+          "description": "",
+          "trailerUrl": "",
+          "fullUrl": "m3mwNMnkkoY"
+        },
+        {
+          "title": "Title2",
+          "image": "",
+          "rating": "",
+          "description": "",
+          "trailerUrl": "",
+          "fullUrl": "p28yT3Z3oj8"
+        },
+        {
+          "title": "Title3",
+          "image": "",
+          "rating": "",
+          "description": "",
+          "trailerUrl": "",
+          "fullUrl": "Gu6FiAEiU4c"
+        },
+        {
+          "title": "Title4",
+          "image": "",
+          "rating": "",
+          "description": "",
+          "trailerUrl": "",
+          "fullUrl": "tJTbmGjlrLk"
+        },
+        {
+          "title": "Title5",
+          "image": "",
+          "rating": "",
+          "description": "",
+          "trailerUrl": "",
+          "fullUrl": "gPN7UEWJ6VI"
+        },
+        {
+          "title": "Title6",
+          "image": "",
+          "rating": "",
+          "description": "",
+          "trailerUrl": "",
+          "fullUrl": "7Jhi8eYUVOY"
+        },
+        {
+          "title": "Title7",
+          "image": "",
+          "rating": "",
+          "description": "",
+          "trailerUrl": "",
+          "fullUrl": "rzIIM0r2MjY"
+        },
+        {
+          "title": "Title8",
+          "image": "",
+          "rating": "",
+          "description": "",
+          "trailerUrl": "",
+          "fullUrl": "P0-ZRGCfvSQ"
+        },
+        {
+          "title": "Title9",
+          "image": "",
+          "rating": "",
+          "description": "",
+          "trailerUrl": "",
+          "fullUrl": "tV-zgfSY5wM"
+        }
+      ]
+    },
+    {
       "categoryTitle": "Action",
       "categoryItems": [
         {
@@ -95,6 +180,14 @@
           "description": "Two years before the Civil War, Django (Jamie Foxx), a slave, finds himself accompanying an unorthodox German bounty hunter named Dr. King Schultz (Christoph Waltz) on a mission to capture the vicious Brittle brothers. Their mission successful, Schultz frees Django, and together they hunt the South's most-wanted criminals. Their travels take them to the infamous plantation of shady Calvin Candie (Leonardo DiCaprio), where Django's long-lost wife (Kerry Washington) is still a slave.",
           "trailerUrl": "K0CXGNJblN0",
           "fullUrl": "3__BJbCVdHA"
+        },
+        {
+          "title": "The Wire",
+          "image": "https://user-images.githubusercontent.com/20631330/68091494-7415ca00-fe4e-11e9-8ba5-2273a98825f7.jpg",
+          "rating": "9.3",
+          "description": "This series looks at the narcotics scene in Baltimore through the eyes of law enforcers as well as the drug dealers and users. Other facets of the city that are explored in the series are the government and bureaucracy, schools and the news media. The show was created by former police reporter David Simon, who also wrote many of the episodes.",
+          "trailerUrl": "uDcQbk78CSw",
+          "fullUrl": "f5A8Dd5HjkY"
         },
         {
           "title": "Baby Driver",
@@ -418,6 +511,35 @@
       ]
     },
     {
+      "categoryTitle": "Science-Fiction",
+      "categoryItems": [
+        {
+          "title": "Flora",
+          "image": "https://user-images.githubusercontent.com/20631330/68080346-05922700-fdd0-11e9-8f5c-c55687a999d3.jpg",
+          "rating": "4.5",
+          "description": "In 1929 botanists discover an ancient organism in an uncharted forest.",
+          "trailerUrl": "A9YRqG3ZRI8",
+          "fullUrl": "aozrTaNwQTQ"
+        },
+        {
+          "title": "Singularity Principle",
+          "image": "https://user-images.githubusercontent.com/20631330/67827751-512e9300-faa7-11e9-9e62-1e23bfdf1444.jpg",
+          "rating": "5.1",
+          "description": "A clandestine Black-Ops Agent is desperate to learn how to use parallel universes to manipulate and control other universes.",
+          "trailerUrl": "BvQ8_lttsPo",
+          "fullUrl": "aKB3YOecfa4"
+        },
+        {
+          "title": "Fugitive Alien",
+          "image": "https://user-images.githubusercontent.com/20631330/68079595-674b9480-fdc2-11e9-97e9-abb68804bbe3.jpg",
+          "rating": "2.3",
+          "description": "After an alien attack leaves Japan devastated, an earthbound spacecraft crew rescues an abandoned enemy crew member.",
+          "trailerUrl": "",
+          "fullUrl": "Z71MyPmmGZI"
+        }
+      ]
+    },
+    {
       "categoryTitle": "Fantasy",
       "categoryItems": [
         {
@@ -472,35 +594,6 @@
           "description": "Captain Paul Gerard (George Raft) is a soldier known as much for his long list of romantic conquests as for his courage. So trouble brews when he is assigned to guard Cara (Marie Windsor), the French-educated daughter of the emir (Eduard Franz), on her passage home. While he is charged with her protection and with uncovering any signs of revolt in her nation, Gerard finds himself irrevocably drawn to the charming beauty. But, as their love blossoms, rebellion rises.",
           "trailerUrl": "kebQMAJkM94",
           "fullUrl": "yqQqcf1lX4g"
-        }
-      ]
-    },
-    {
-      "categoryTitle": "Science-Fiction",
-      "categoryItems": [
-        {
-          "title": "Flora",
-          "image": "https://user-images.githubusercontent.com/20631330/68080346-05922700-fdd0-11e9-8f5c-c55687a999d3.jpg",
-          "rating": "4.5",
-          "description": "In 1929 botanists discover an ancient organism in an uncharted forest.",
-          "trailerUrl": "A9YRqG3ZRI8",
-          "fullUrl": "aozrTaNwQTQ"
-        },
-        {
-          "title": "Singularity Principle",
-          "image": "https://user-images.githubusercontent.com/20631330/67827751-512e9300-faa7-11e9-9e62-1e23bfdf1444.jpg",
-          "rating": "5.1",
-          "description": "A clandestine Black-Ops Agent is desperate to learn how to use parallel universes to manipulate and control other universes.",
-          "trailerUrl": "BvQ8_lttsPo",
-          "fullUrl": "aKB3YOecfa4"
-        },
-        {
-          "title": "Fugitive Alien",
-          "image": "https://user-images.githubusercontent.com/20631330/68079595-674b9480-fdc2-11e9-97e9-abb68804bbe3.jpg",
-          "rating": "2.3",
-          "description": "After an alien attack leaves Japan devastated, an earthbound spacecraft crew rescues an abandoned enemy crew member.",
-          "trailerUrl": "",
-          "fullUrl": "Z71MyPmmGZI"
         }
       ]
     },
