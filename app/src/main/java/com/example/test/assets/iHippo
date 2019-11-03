@@ -1,93 +1,16 @@
 {
   "allCategories": [
     {
-      "categoryTitle": "New Uploads",
-      "categoryItems": [
-        {
-          "title": "Starcraft : Infinity War",
-          "image": "https://user-images.githubusercontent.com/20631330/68091568-64e34c00-fe4f-11e9-93fc-96b9c421006c.jpg",
-          "rating": "8.5",
-          "description": "",
-          "trailerUrl": "",
-          "fullUrl": "cDk0uHuK6Rk"
-        },
-        {
-          "title": "Starcraft 2 - Heart of the Swarm",
-          "image": "https://user-images.githubusercontent.com/20631330/68091568-64e34c00-fe4f-11e9-93fc-96b9c421006c.jpg",
-          "rating": "",
-          "description": "",
-          "trailerUrl": "",
-          "fullUrl": "m3mwNMnkkoY"
-        },
-        {
-          "title": "Title2",
-          "image": "https://user-images.githubusercontent.com/20631330/68091568-64e34c00-fe4f-11e9-93fc-96b9c421006c.jpg",
-          "rating": "",
-          "description": "",
-          "trailerUrl": "",
-          "fullUrl": "p28yT3Z3oj8"
-        },
-        {
-          "title": "Title3",
-          "image": "https://user-images.githubusercontent.com/20631330/68091568-64e34c00-fe4f-11e9-93fc-96b9c421006c.jpg",
-          "rating": "",
-          "description": "",
-          "trailerUrl": "",
-          "fullUrl": "Gu6FiAEiU4c"
-        },
-        {
-          "title": "Title4",
-          "image": "https://user-images.githubusercontent.com/20631330/68091568-64e34c00-fe4f-11e9-93fc-96b9c421006c.jpg",
-          "rating": "",
-          "description": "",
-          "trailerUrl": "",
-          "fullUrl": "tJTbmGjlrLk"
-        },
-        {
-          "title": "Title5",
-          "image": "https://user-images.githubusercontent.com/20631330/68091568-64e34c00-fe4f-11e9-93fc-96b9c421006c.jpg",
-          "rating": "",
-          "description": "",
-          "trailerUrl": "",
-          "fullUrl": "gPN7UEWJ6VI"
-        },
-        {
-          "title": "Title6",
-          "image": "https://user-images.githubusercontent.com/20631330/68091568-64e34c00-fe4f-11e9-93fc-96b9c421006c.jpg",
-          "rating": "",
-          "description": "",
-          "trailerUrl": "",
-          "fullUrl": "7Jhi8eYUVOY"
-        },
-        {
-          "title": "Title7",
-          "image": "https://user-images.githubusercontent.com/20631330/68091568-64e34c00-fe4f-11e9-93fc-96b9c421006c.jpg",
-          "rating": "",
-          "description": "",
-          "trailerUrl": "",
-          "fullUrl": "rzIIM0r2MjY"
-        },
-        {
-          "title": "Title8",
-          "image": "https://user-images.githubusercontent.com/20631330/68091568-64e34c00-fe4f-11e9-93fc-96b9c421006c.jpg",
-          "rating": "",
-          "description": "",
-          "trailerUrl": "",
-          "fullUrl": "P0-ZRGCfvSQ"
-        },
-        {
-          "title": "Title9",
-          "image": "https://user-images.githubusercontent.com/20631330/68091568-64e34c00-fe4f-11e9-93fc-96b9c421006c.jpg",
-          "rating": "",
-          "description": "",
-          "trailerUrl": "",
-          "fullUrl": "tV-zgfSY5wM"
-        }
-      ]
-    },
-    {
       "categoryTitle": "Action",
       "categoryItems": [
+        {
+          "title": "Rising Fear",
+          "image": "https://user-images.githubusercontent.com/20631330/68092584-c3fa8e00-fe5a-11e9-85ec-2abe64b5facf.jpg",
+          "rating": "4.0",
+          "description": "A rogue Marine sets out to stop terrorists after they take the nation hostage.",
+          "trailerUrl": "-ju_Dr82zXE",
+          "fullUrl": "tJTbmGjlrLk"
+        },
         {
           "title": "Mercenaries",
           "image": "https://user-images.githubusercontent.com/20631330/68079171-c1952700-fdbb-11e9-8500-5cd4c7b2e397.jpg",
@@ -167,6 +90,14 @@
           "description": "A Chinese-American policeman (Leo Fong) and a federal agent (Richard Roundtree) hunt dealers in stolen automatic weapons.",
           "trailerUrl": "RH0zwZ4uiHk",
           "fullUrl": "U1ddaCRvo5U"
+        },
+        {
+          "title": "Shadow Man",
+          "image": "https://user-images.githubusercontent.com/20631330/68092772-a4646500-fe5c-11e9-9e95-808d5b4c5b26.jpg",
+          "rating": "4.1",
+          "description": "DescriptionEx-CIA operative Jack Foster (Steven Seagal) has retired from a life of espionage and lives quietly, teaching martial arts at a local dojo. At the end of a relaxing vacation in Romania, Foster's father-in-law falls victim to a car bomb, and his daughter is kidnapped by a mysterious woman. As Foster struggles to rescue her and bring the responsible parties to justice, he finds himself caught in a web of government corruption -- and suddenly in the possession of a deadly biological weapon.",
+          "trailerUrl": "lzZS9sh6xsA",
+          "fullUrl": "rzIIM0r2MjY"
         }
       ]
     },
@@ -182,12 +113,28 @@
           "fullUrl": "3__BJbCVdHA"
         },
         {
+          "title": "Shinjuku Incident",
+          "image": "https://user-images.githubusercontent.com/20631330/68092521-17b8a780-fe5a-11e9-82c1-4b2ef216e24f.jpg",
+          "rating": "7.0",
+          "description": "Shinjuku Incident is a 2009 Hong Kong crime drama film written and directed by Derek Yee, and also starring Jackie Chan. The film was distributed by Chan's own film company, JCE Movies Limited. The film was originally to be released on 25 September 2008 but was delayed to the first quarter of 2009.",
+          "trailerUrl": "tY0jZIeuFAc",
+          "fullUrl": "Gu6FiAEiU4c"
+        },
+        {
           "title": "The Wire",
           "image": "https://user-images.githubusercontent.com/20631330/68091494-7415ca00-fe4e-11e9-8ba5-2273a98825f7.jpg",
           "rating": "9.3",
           "description": "This series looks at the narcotics scene in Baltimore through the eyes of law enforcers as well as the drug dealers and users. Other facets of the city that are explored in the series are the government and bureaucracy, schools and the news media. The show was created by former police reporter David Simon, who also wrote many of the episodes.",
           "trailerUrl": "uDcQbk78CSw",
           "fullUrl": "f5A8Dd5HjkY"
+        },
+        {
+          "title": "Open Range",
+          "image": "https://user-images.githubusercontent.com/20631330/68092398-a4626600-fe58-11e9-8f7a-bb88f2e40b37.jpg",
+          "rating": "7.4",
+          "description": "Boss Spearman (Robert Duvall) and his cowhands Charley (Kevin Costner) and Mose (Abraham Benrubi) are driving cattle across a large expanse of country. When Mose ventures into a sparse village to buy a few necessities, he is met with violent hostility from Denton Baxter (Michael Gambon), an affluent landowner, and his right-hand man, Poole (James Russo). When Mose doesn't come back, Boss and Charley realize he's in trouble, so they plot to get him back and get revenge on those who captured him.",
+          "trailerUrl": "kuDoibMQzkQ",
+          "fullUrl": "p28yT3Z3oj8"
         },
         {
           "title": "Baby Driver",
@@ -206,12 +153,20 @@
           "fullUrl": "I_N5CKgs6_k"
         },
         {
-          "title": "The rock The Challenger",
+          "title": "The Challenger",
           "image": "https://user-images.githubusercontent.com/20631330/68079001-1c2c8400-fdb8-11e9-8704-5ab95e4a7639.jpg",
           "rating": "5.6",
           "description": "The Challenger is an American sports drama film written and directed by Kent Moran and executive produced by Michael Clarke Duncan, who also co-stars. In addition to Duncan, whose last feature film it was, The Challenger features Kent Moran, S. Epatha Merkerson and Justin Hartley.",
           "trailerUrl": "3hpF1aDs9X0",
           "fullUrl": "dBgftmZkQRg"
+        },
+        {
+          "title": "Bad Is Bad",
+          "image": "https://user-images.githubusercontent.com/20631330/68092623-2ce20600-fe5b-11e9-8756-c085478480a2.jpg",
+          "rating": "6.0",
+          "description": "A locally loved suburban family man has to pay for the worst thing he's ever done when two mysterious young criminals break into his home.",
+          "trailerUrl": "54Uke5kM8WQ",
+          "fullUrl": "gPN7UEWJ6VI"
         },
         {
           "title": "Lolita",
@@ -331,12 +286,28 @@
           "fullUrl": "yKap79Y1jWM"
         },
         {
+          "title": "Bad Is Bad",
+          "image": "https://user-images.githubusercontent.com/20631330/68092623-2ce20600-fe5b-11e9-8756-c085478480a2.jpg",
+          "rating": "6.0",
+          "description": "A locally loved suburban family man has to pay for the worst thing he's ever done when two mysterious young criminals break into his home.",
+          "trailerUrl": "54Uke5kM8WQ",
+          "fullUrl": "gPN7UEWJ6VI"
+        },
+        {
           "title": "Diya (కణం)",
           "image": "https://user-images.githubusercontent.com/20631330/68079705-2fdde780-fdc4-11e9-87df-71c281bb2138.jpeg",
           "rating": "5.7",
           "description": "After abortion, a woman's life takes an unexpected turn when she is visited by the foetus, who is now grown up and is visible to her.",
           "trailerUrl": "3nqPDjZj4Jk",
           "fullUrl": "k29dfzGNed8"
+        },
+        {
+          "title": "Shadow Man",
+          "image": "https://user-images.githubusercontent.com/20631330/68092772-a4646500-fe5c-11e9-9e95-808d5b4c5b26.jpg",
+          "rating": "4.1",
+          "description": "DescriptionEx-CIA operative Jack Foster (Steven Seagal) has retired from a life of espionage and lives quietly, teaching martial arts at a local dojo. At the end of a relaxing vacation in Romania, Foster's father-in-law falls victim to a car bomb, and his daughter is kidnapped by a mysterious woman. As Foster struggles to rescue her and bring the responsible parties to justice, he finds himself caught in a web of government corruption -- and suddenly in the possession of a deadly biological weapon.",
+          "trailerUrl": "lzZS9sh6xsA",
+          "fullUrl": "rzIIM0r2MjY"
         },
         {
           "title": "Submarine Alert",
@@ -462,6 +433,14 @@
           "description": "An ex-cop investigates the death of his best friend and two other spies, killings that lead to a mole operating from India's embassy in Budapest.",
           "trailerUrl": "r4O4Xec60_k",
           "fullUrl": "cx4Xwae513g"
+        },
+        {
+          "title": "Shinjuku Incident",
+          "image": "https://user-images.githubusercontent.com/20631330/68092521-17b8a780-fe5a-11e9-82c1-4b2ef216e24f.jpg",
+          "rating": "7.0",
+          "description": "Shinjuku Incident is a 2009 Hong Kong crime drama film written and directed by Derek Yee, and also starring Jackie Chan. The film was distributed by Chan's own film company, JCE Movies Limited. The film was originally to be released on 25 September 2008 but was delayed to the first quarter of 2009.",
+          "trailerUrl": "tY0jZIeuFAc",
+          "fullUrl": "Gu6FiAEiU4c"
         }
       ]
     },
@@ -513,6 +492,22 @@
     {
       "categoryTitle": "Science-Fiction",
       "categoryItems": [
+        {
+          "title": "Starcraft : Infinity War",
+          "image": "https://user-images.githubusercontent.com/20631330/68091568-64e34c00-fe4f-11e9-93fc-96b9c421006c.jpg",
+          "rating": "8.5",
+          "description": "",
+          "trailerUrl": "ujYkpJ7FlAs",
+          "fullUrl": "cDk0uHuK6Rk"
+        },
+        {
+          "title": "StarCraft II: Heart of the Swarm",
+          "image": "https://user-images.githubusercontent.com/20631330/68091568-64e34c00-fe4f-11e9-93fc-96b9c421006c.jpg",
+          "rating": "8.7",
+          "description": "After the events of StarCraft II: Wings of Liberty (2010), Sarah Kerrigan works to reunite the Zerg swarm in order to take revenge on Arcturus Mengsk.",
+          "trailerUrl": "vCsGTP3-Jlw",
+          "fullUrl": "m3mwNMnkkoY"
+        },
         {
           "title": "Flora",
           "image": "https://user-images.githubusercontent.com/20631330/68080346-05922700-fdd0-11e9-8f5c-c55687a999d3.jpg",
