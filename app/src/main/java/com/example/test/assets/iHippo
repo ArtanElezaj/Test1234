@@ -271,6 +271,14 @@
           "description": "",
           "trailerUrl": "PfMA5kUwiGQ",
           "fullUrl": "3nZWn5SxN9U"
+        },
+        {
+          "title": "Bloodline",
+          "image": "https://user-images.githubusercontent.com/20631330/68089847-1b890180-fe3b-11e9-9549-670575317bfb.jpg",
+          "rating": "8.0",
+          "description": "From the creators of 'Damages, Bloodline' is a dramatic thriller that explores the demons lurking beneath the surface of a contemporary American family. The Rayburns are hard-working pillars of their Florida Keys community, but their past contains dark secrets that they hope remain buried. Paranoia and mistrust build as lies pile up, alliances are shattered, and an unthinkable crime takes place. The tight-knit family's formerly harmonious relationship deteriorates, and good people are forced to consider doing very bad things.",
+          "trailerUrl": "7f-FpB_GoGE",
+          "fullUrl": "jE60eYEIYMo"
         }
       ]
     },
@@ -324,14 +332,6 @@
           "description": "A car mechanic, Tom, leads a happy life with his family until he falls in love with a girl and Edgar enters into their lives, bringing with him many problems.",
           "trailerUrl": "OiWFSK5xdtk",
           "fullUrl": "gcVSKSVETx4"
-        },
-        {
-          "title": "Bloodline",
-          "image": "https://user-images.githubusercontent.com/20631330/68089847-1b890180-fe3b-11e9-9549-670575317bfb.jpg",
-          "rating": "8.0",
-          "description": "From the creators of 'Damages, Bloodline' is a dramatic thriller that explores the demons lurking beneath the surface of a contemporary American family. The Rayburns are hard-working pillars of their Florida Keys community, but their past contains dark secrets that they hope remain buried. Paranoia and mistrust build as lies pile up, alliances are shattered, and an unthinkable crime takes place. The tight-knit family's formerly harmonious relationship deteriorates, and good people are forced to consider doing very bad things.",
-          "trailerUrl": "7f-FpB_GoGE",
-          "fullUrl": "jE60eYEIYMo"
         },
         {
           "title": "Wu Tang Magic Kick",
@@ -637,6 +637,14 @@
     {
       "categoryTitle": "Mystery",
       "categoryItems": [
+        {
+          "title": "Bloodline",
+          "image": "https://user-images.githubusercontent.com/20631330/68089847-1b890180-fe3b-11e9-9549-670575317bfb.jpg",
+          "rating": "8.0",
+          "description": "From the creators of 'Damages, Bloodline' is a dramatic thriller that explores the demons lurking beneath the surface of a contemporary American family. The Rayburns are hard-working pillars of their Florida Keys community, but their past contains dark secrets that they hope remain buried. Paranoia and mistrust build as lies pile up, alliances are shattered, and an unthinkable crime takes place. The tight-knit family's formerly harmonious relationship deteriorates, and good people are forced to consider doing very bad things.",
+          "trailerUrl": "7f-FpB_GoGE",
+          "fullUrl": "jE60eYEIYMo"
+        },
         {
           "title": "Force 2",
           "image": "https://user-images.githubusercontent.com/20631330/67828268-28a79880-faa9-11e9-902a-1cbff55d798e.jpg",
