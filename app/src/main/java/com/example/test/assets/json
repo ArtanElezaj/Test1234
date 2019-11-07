@@ -16,6 +16,11 @@
       "packageName": "com.devhippo.HolyBible"
     },
     {
+      "image": "https://user-images.githubusercontent.com/20631330/67351953-afde9480-f51c-11e9-97b6-8b8c2be20a4d.png",
+      "name": "The Law Of Success In Sixteen Lessons",
+      "packageName": "com.devhippo.TheLawOfSuccessInSixteenLessons"
+    },
+    {
       "image": "https://user-images.githubusercontent.com/20631330/67351949-afde9480-f51c-11e9-9442-0174164f5c9a.png",
       "name": "How To Get What You Want",
       "packageName": "com.devhippo.HowToGetWhatYouWant"
