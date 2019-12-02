@@ -49,6 +49,11 @@
       "image": "https://user-images.githubusercontent.com/20631330/67351951-afde9480-f51c-11e9-87a6-c0f716b7575b.png",
       "name": "The 7 Habits Of Highly Effective People",
       "packageName": "com.devhippo.The7HabitsOfHighlyEffectivePeople"
+    },
+    {
+      "image": "https://user-images.githubusercontent.com/20631330/69936600-3f754c80-14a6-11ea-8fb6-20655cceae2b.jpg",
+      "name": "Magnificent Obsession",
+      "packageName": "com.devhippo.MagnificentObsession"
     }
   ]
 }
