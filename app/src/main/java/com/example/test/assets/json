@@ -1,6 +1,11 @@
 {
   "allApps": [
     {
+      "image": "https://user-images.githubusercontent.com/20631330/77497919-d8005580-6e24-11ea-9976-2a0a64103194.png",
+      "name": "World Covid19 LIVE                (Coming soon...)",
+      "packageName": "world.c19.live"
+    },
+    {
       "image": "https://user-images.githubusercontent.com/20631330/77277319-06e6c200-6c93-11ea-9b47-67a63663a9af.png",
       "name": "iHIPPO",
       "packageName": "ihippo.net"
@@ -54,6 +59,11 @@
       "image": "https://user-images.githubusercontent.com/20631330/67351947-afde9480-f51c-11e9-9ed2-2c67f4b6fefa.png",
       "name": "Grow Rich While You Sleep",
       "packageName": "com.devhippo.GrowRichWhileYouSleep"
+    },
+    {
+      "image": "https://user-images.githubusercontent.com/20631330/77497562-003b8480-6e24-11ea-8b18-cb765fc8b213.png",
+      "name": "PDF Reader",
+      "packageName": "com.devhippo.pdfreader"
     }
   ]
 }
