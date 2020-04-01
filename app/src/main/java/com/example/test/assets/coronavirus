@@ -3,20 +3,23 @@
     {
       "image": "https://user-images.githubusercontent.com/20631330/77497919-d8005580-6e24-11ea-9976-2a0a64103194.png",
       "title": "What are Coronaviruses?",
-      "description": "aaaaaa",
-      "url": ""
+      "description": "aaaaaa"
     },
     {
       "image": "https://user-images.githubusercontent.com/20631330/77497919-d8005580-6e24-11ea-9976-2a0a64103194.png",
       "title": "What are the symptoms?",
-      "description": "aaaaaa",
-      "url": "world.c19.live"
+      "description": "aaaaaa"
     },
     {
       "image": "https://user-images.githubusercontent.com/20631330/77497919-d8005580-6e24-11ea-9976-2a0a64103194.png",
-      "title": "How it is transmitted?",
-      "description": "aaaaaa",
-      "url": "world.c19.live"
-    }
+      "title": "How is it transmitted?",
+      "description": "aaaaaa"
+    },
+    {
+          "image": "https://user-images.githubusercontent.com/20631330/77497919-d8005580-6e24-11ea-9976-2a0a64103194.png",
+          "title": "Daily news",
+          "description": "aaaaaa",
+          "url": "https://www.worldometers.info/coronavirus/"
+        }
   ]
 }
