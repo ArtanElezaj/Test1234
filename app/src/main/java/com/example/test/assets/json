@@ -1,11 +1,6 @@
 {
   "allApps": [
     {
-      "image": "https://user-images.githubusercontent.com/20631330/78467140-9353a480-76d7-11ea-8a3f-9b7395c35199.png",
-      "name": "Coronavìrus Tips                (Coming soon...)",
-      "packageName": "com.devhippo.tips"
-    },
-    {
       "image": "https://user-images.githubusercontent.com/20631330/77277319-06e6c200-6c93-11ea-9b47-67a63663a9af.png",
       "name": "iHIPPO",
       "packageName": "ihippo.net"
@@ -61,9 +56,19 @@
       "packageName": "com.devhippo.GrowRichWhileYouSleep"
     },
     {
+      "image": "https://user-images.githubusercontent.com/20631330/79523386-04764e80-802c-11ea-83e0-d177ec488148.png",
+      "name": "Harry Answers",
+      "packageName": "com.harryanswers"
+    },
+    {
       "image": "https://user-images.githubusercontent.com/20631330/77497562-003b8480-6e24-11ea-8b18-cb765fc8b213.png",
       "name": "PDF Reader",
       "packageName": "com.devhippo.pdfreader"
+    },
+    {
+      "image": "https://user-images.githubusercontent.com/20631330/79523356-f6283280-802b-11ea-89a9-e079ced0b9ce.png",
+      "name": "Fast Bird",
+      "packageName": "com.devhipo.fastbird"
     }
   ]
 }
